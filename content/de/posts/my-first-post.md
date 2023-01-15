@@ -7,7 +7,9 @@ authors:
   - ilominar
 ---
 
-Ich suche also Erben. Oder Helden. Helden, die sich auf ein neues Abenteuer mit mir zusammen einlassen wollen.
+Ich suche also Erben. Oder Helden. Helden, die sich auf ein neues Abenteuer mit mir zusammen einlassen wollen. Möglicherweise dich?
+
+
 
 ## Story
 
