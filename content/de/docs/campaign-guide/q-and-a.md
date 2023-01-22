@@ -1,11 +1,12 @@
 ---
-title: Über das Spiel
-description: Metainformationen zum Spiel, Hausregeln, Tools, usw.
+title: Fragen und Antworten
+description: Fragen und Antworten
 toc: true
-authors:
+authors: alexander
 tags:
 categories:
 series:
+weight: 30
 date: '2023-01-05'
 lastmod: '2023-01-05'
 draft: false

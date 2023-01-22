@@ -2,9 +2,9 @@
 title: "Erben gesucht"
 date: 2022-12-20T17:49:42+01:00
 toc: true
-draft: true
+draft: false
 authors:
-  - ilominar
+  - alexander
 ---
 
 Ich suche also Erben. Oder Helden. Helden, die sich auf ein neues Abenteuer mit mir zusammen einlassen wollen. Möglicherweise dich?

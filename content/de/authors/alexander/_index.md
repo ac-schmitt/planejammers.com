@@ -1,9 +1,9 @@
 ---
 # Name
-title: Ilominar
-role: NSC
-bio: Advokatus von Phineas, Ilominar, Fohleireih & Co.
-avatar:
+title: Alexander
+role: Dungeon Master
+bio: Dungeon Master
+avatar: https://i.imgur.com/i0kzBdN.png
 
 organization:
   name:

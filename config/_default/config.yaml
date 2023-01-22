@@ -2,7 +2,7 @@ baseURL: https://planejammers.com/
 title: Planejammers
 
 # Uncomment when not installing with Hugo Modules
-theme: eureka
+theme: ["hugo-notice", "eureka"]
 # Comment when not installing with Hugo Modules
 # theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
