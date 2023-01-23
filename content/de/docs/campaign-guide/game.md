@@ -25,7 +25,27 @@ Falls dir davon etwas nicht gefällt und du es gern anders hättest, kannst du m
 
 ## Spielsystem
 
-[Dungeons & Dragons, 5th Edition](https://dnd.wizards.com/). Das Setting spielt [im Dungeons & Dragons Multiversum]({{< ref "world" >}}), das gesamte offizielle Material ist erlaubt, inklusive den Inhalten von [Critical Role](https://critrole.com/).
+[Dungeons & Dragons, 5th Edition](https://dnd.wizards.com/). Ich spiele einen Mix aus Englisch und Deutsch, viele "Fachbegriffe" benutze ich auf Englisch aber ich kann auch immer den deutschen Begriff dazu sagen. Das Setting spielt [im Dungeons & Dragons Multiversum]({{< ref "world" >}}), das gesamte offizielle Material ist erlaubt, inklusive den Inhalten von [Critical Role](https://critrole.com/).
+
+### Völker
+
+Du musst dir ein Volk in der Kategorie "klein" für die Größe aussuchen. Alle Völker und Volksunterarten der offiziellen Quellenbücher sind erlaubt, inklusive der Publikationen von Critical Role.
+
+"Custom Lineage" ist möglich. Ich möchte dann aber eine coole Hintergrundgeschichte für Deinen Charakter sehen!
+
+### Stufe der Charaktere
+
+Du beginnst mit Charakteren der Stufe 1. Also einem Hauptcharakter und einem Sidekick der Stufe 1.
+
+### Hintergrund
+
+Such Dir einen beliebigen Hintergrund aus. "Custom Background" ist zulässig. Und passt auch prima zu "Custom Lineage". 😉
+
+### Anfangsausrüstung
+
+Auf Verhandlungsbasis. Du kannst auch einfach die Ausrüstung Deiner Klasse nehmen. Aber nimm was auch immer für Dich Sinn macht und Spaß bringt. Mit mir musst Du absprechen, falls Deine Ausrüstung mehr wert ist, als im [Spielerhandbuch unter Anfangsausrüstung angegeben](https://www.dndbeyond.com/sources/phb/equipment#StartingEquipment) ist.
+
+Du darfst dir einen magischen Gegenständ mit der Seltenheit "gewöhnlich" aussuchen, wenn Du möchtest.
 
 ## Spielort
 
@@ -72,3 +92,9 @@ Wir spielen manche Kämpfe mit taktischen Karten. Ich nutze dafür [Owlbear Rode
 ### Planejammers.com
 
 Diese Website enthält alle öffentlichen Materialien, die ich öffentlich und für alle teilen möchte. 
+
+## Session 0
+
+{{< notice info >}}
+Es wird eine Session 0 geben. Was wir in dieser Session 0 festlegen, schreibe ich hier auf.
+{{< /notice >}}

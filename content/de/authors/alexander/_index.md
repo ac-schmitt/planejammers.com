@@ -1,8 +1,8 @@
 ---
 # Name
 title: Alexander
-role: Dungeon Master
-bio: Dungeon Master
+role: Erzähler
+bio: Dungeon Master von Planejammers
 avatar: https://i.imgur.com/i0kzBdN.png
 
 organization:

@@ -7,29 +7,50 @@ tags:
 categories:
 series:
 weight: 30
-date: '2023-01-05'
-lastmod: '2023-01-05'
+date: '2023-01-23'
+lastmod: '2023-01-23'
 draft: false
 ---
 
-Hier kommen die Metainformationen zum Spiel rein.
 
-## Duis vel leo nec mi convallis sodales
+## Warum Dungeons & Dragons?
 
-Sed efficitur nibh sed euismod dictum. Donec posuere, nisl a egestas dignissim, risus magna placerat tortor, quis tincidunt ipsum erat at nunc. Cras consectetur ex eget tortor fermentum mattis. Nullam sodales sed purus eget ornare. Vestibulum aliquam cursus odio vitae placerat. Etiam vel pharetra diam. Morbi molestie varius tincidunt. Morbi molestie tortor vitae metus venenatis, ut fermentum nisl luctus. Aenean at condimentum lorem, rhoncus dapibus nibh. Donec et dui consequat ipsum ultrices tristique vitae vitae est.
+Mir gefällt die 5th Edition. Ich kenne die Regeln. Als Spielleiter möchte ich mich gern auf die Story konzentrieren und nicht noch mentales Regeljonglieren betreiben. Ich leite momentan ausschließlich Dungeons & Dragons. Wobei ich GURPS auch super finde und auch gern mal Pathfinder spielen würde.
 
-## Sed efficitur ante a tortor euismod
+## Ich hab noch nie D&D gespielt. Ist das was für mich?
 
-In ornare ultricies sapien in tincidunt. Integer malesuada tellus sed nibh dictum facilisis non sit amet nibh. Vestibulum sed tincidunt ante, nec tincidunt lectus. Pellentesque id dolor ipsum. Sed efficitur tristique mauris eu tristique. Aliquam nec volutpat dolor. Praesent vitae feugiat nibh. Curabitur mollis placerat sem, ut eleifend mi. Sed sed nisl elit. Pellentesque eget elit nec arcu imperdiet imperdiet. Aliquam dictum arcu ac pharetra rutrum.
+Klar. Es geht ganz am Anfang und ganz langsam los.
 
-### Cras ac diam efficitur
+## Darf ich einen Charakter spielen, der größer ist als "small"?
 
-Donec iaculis bibendum suscipit. Ut egestas ligula vel orci posuere scelerisque. Nam vel elementum nibh, congue tempus sapien. Aliquam luctus ante sit amet urna vehicula hendrerit. Morbi at ante nisl. Sed euismod vel dolor in iaculis. Aliquam lacinia lorem sit amet vestibulum finibus. Nulla facilisi. Vivamus lacinia consectetur hendrerit. Integer commodo a nibh nec rhoncus. Nulla non aliquet erat. Cras vel orci a urna malesuada viverra vel quis nisi. Donec pharetra laoreet ante, vulputate volutpat ante consequat eget. Donec efficitur consequat nisi vitae volutpat. Vestibulum volutpat, odio nec sodales cursus, ligula nulla pellentesque erat, ut iaculis magna lorem non purus. Curabitur efficitur tortor et elit sodales, in lobortis risus feugiat.
+Ja. Aber es darf aus Spaß an der Freude nur eine Person mit diesem "Privileg" geben. Wer das ist, klärt sich in einer Session 0.
 
-### Cras hendrerit nibh non pulvinar consectetur
+## Was ist ein Sidekick?
 
-Donec justo diam, auctor et rhoncus a, feugiat in felis. Etiam lectus est, tincidunt iaculis mi et, feugiat rutrum tellus. Ut sit amet tellus vitae nisi faucibus pulvinar non a augue. Etiam auctor porttitor mi, vitae posuere lacus pretium ac. Pellentesque sed ante magna. Proin tempor faucibus risus, vitae tincidunt arcu ultrices egestas. Aenean rutrum purus vel vulputate lobortis. Aenean auctor ipsum quam, eu molestie magna ultricies quis. Phasellus vitae diam erat. Nam at facilisis massa. Nam vulputate nec quam vel iaculis. Maecenas mauris felis, semper vel ultricies eu, interdum condimentum lacus. Mauris quis tincidunt erat, quis efficitur dolor.
+Ein spezieller, zusätzlicher Charakter. Ein treuer Begleiter, ein Freund, ein besonderer Vertrauter. Du spielst den Sidekick die meiste Zeit, vor allem in Kampfsituationen bestimmst du die Handlung Deines Sidekicks. Ich übernehme nur manchmal den Sidekick als NSC. Sie folgen den Regeln aus [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
 
-## Quisque vehicula tellus eget nunc molestie
+## Muss ich einen Sidekick haben?
 
-Phasellus ligula tortor, sodales ac ipsum vel, lobortis lacinia eros. Maecenas et viverra enim, sit amet bibendum risus. Duis a est pulvinar, suscipit diam id, sagittis lectus. Sed vulputate est sed ipsum faucibus tempus. Morbi non varius nibh. Vestibulum vel tincidunt neque. Vestibulum pellentesque sed metus eu gravida. Donec rhoncus, quam in dictum bibendum, diam libero pretium lacus, vitae suscipit diam neque eget arcu. Pellentesque id hendrerit lorem. Curabitur fermentum purus orci, nec ullamcorper dolor consequat at. Suspendisse lectus dolor, efficitur non mollis eget, suscipit ut nisl. Quisque id ex metus. Sed lobortis venenatis lacinia. Sed at lorem leo.
+Ja, im Prinzip schon. Wir können vereinzelt eine Ausnahme machen oder Du kannst erstmal ohne Sidekick starten, wenn du noch nicht so viel Erfahrung hast. Aber die Sidekicks bilden zusammen mit den Charakter die Mannschaft für das Schiff als ein zentrales Element dieser Story. Und über diese Schiffsbesatzung sollst Du gemeinsam mit den anderen Spielern die Kontrolle haben. Und sie sind einfacher zu spielen als Charaktere.
+
+## Geht auch ein anderer Tag? Am Wochenende? Und können wir statt alle 2 Wochen nicht Termine flexibel ausmachen?
+
+Nein. Nein. Tut mir leid, aber das passt für mich am besten in meine Lebensorga.
+
+Und das wichtigste: ich wollte schon immer mal sagen: "is it thursday yet?!".😊
+
+## Können die Sessions kürzer als 2 Stunden sein?
+
+Macht für mich keinen Sinn. 2 Stunden halte ich schon für sportlich kurz.
+
+## Können die Sessions länger als 3 Stunden sein?
+
+Unter der Woche!? Ich muss einer Erwerbsarbeit nachgehen, spätestens um 23 Uhr bin ich Bett.
+
+## WotC ist böse! Warum muss ich DnD-Beyond benutzen?
+
+Es erleichtert mir meinem Job als Spielleiter. Ich kann legal Inhalte aus dem offiziellen Material mit Dir teilen und wir können direkt gemeinsam auf dem Charakterbogen Änderungen machen.
+
+## Muss ich was für die Tools bezahlen?
+
+Nein. Eventuell entstehende Kosten übernehme ich. Du darfst etwas dazugeben, falls du möchtest und kannst, aber das absolut nicht notwendig.
