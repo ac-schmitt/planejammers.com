@@ -37,7 +37,7 @@ Ja, im Prinzip schon.
 
 Wir können vereinzelt eine Ausnahme machen oder Du kannst erstmal ohne Sidekick starten, wenn Du noch nicht so viel Erfahrung hast. Aber die Sidekicks bilden zusammen mit den Hauptcharakteren die Mannschaft für das Schiff als ein zentrales Element dieser Story. Und über diese Schiffsbesatzung sollst Du gemeinsam mit den anderen Spielern die Kontrolle haben. Und Sidekicks sind einfacher zu spielen als Charaktere.
 
-Bei manchen Charakterklassen gibt es "Companions" oder "Familiars". Wenn Du möchtest, können wir so ein Feature als Sidekick ausbauen. Aber Du darfst natürlich einen Sidekick haben und zusätzlich bspw. ein "Beast Companion" als Ranger haben.
+Bei manchen Charakterklassen gibt es "Companions" oder "Familiars". Wenn Du möchtest, können wir so ein Feature als Sidekick ausbauen. Aber Du darfst natürlich einen Sidekick und zusätzlich bspw. ein "Beast Companion" als Ranger haben.
 
 ## Darf ich eine Homebrew-Klasse spielen?
 
