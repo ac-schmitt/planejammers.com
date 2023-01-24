@@ -9,7 +9,7 @@ authors:
 
 Ich suche Spieler. Ich suche Abenteuerer. Ich suche Erben. Erben eines unfassbaren Schatzes. Vielleicht suche ich Dich?
 
-Falls du Lust und Zeit für eine regelmäßige Rollenspielrunde hast,
+Falls Du Lust und Zeit für eine regelmäßige Rollenspielrunde hast,
 
 * die [nur online]({{< ref "game#spielort" >}}) gespielt wird;
 * die [jeden 2. Donnnerstag Abend]({{< ref "game#spielzeit" >}}) stattfindet;
@@ -17,15 +17,15 @@ Falls du Lust und Zeit für eine regelmäßige Rollenspielrunde hast,
 * bei der wir ein [Pulp Science Fantasy Setting]({{< ref "campaign-guide#setting" >}}) mit einer Mischung aus Spelljammer und Planescape erkunden;
 * bei der [ich]({{< ref "alexander" >}}) den Spielleiter gebe.
 
-Dann, ja dann könnte das was für dich sein.
+Dann, ja dann könnte das was für Dich sein.
 
 ## Die Kampagne
 
-Wenn Du interessiert bist, schau dich kurz im [Kampagnen-Leitfaden]({{< ref "campaign-guide" >}}) um. Dort hab ich ein paar Informationen zusammengestellt und auch meine Randbedingungen aufgeschrieben.
+Wenn Du interessiert bist, schau Dich kurz im [Kampagnen-Leitfaden]({{< ref "campaign-guide" >}}) um. Dort hab ich ein paar Informationen zusammengestellt und auch meine Randbedingungen aufgeschrieben.
 
 ## Melde Dich!
 
-Falls Du gerne mit mir gemeinsam irgendwann ab März in Gedanken zwischen den Welten reisen möchtest, dann schreib mir eine [E-Mail](mailto:dm@planejammers.com). Ich freue mich, wenn Du mir schreibst, warum dich das hier anspricht und was du vielleicht schon für Ideen hast.
+Falls Du gerne mit mir gemeinsam irgendwann ab März in Gedanken zwischen den Welten reisen möchtest, dann schreib mir eine [E-Mail](mailto:dm@planejammers.com). Ich freue mich, wenn Du mir schreibst, warum Dich das hier anspricht und was Du vielleicht schon für Ideen hast.
 
 Ich sammele alle Rückmeldungen und melde mich dann wieder bei Dir um mit Dir und allen anderen Reisenden eine gemeinsame Session 0 auszumachen.
 

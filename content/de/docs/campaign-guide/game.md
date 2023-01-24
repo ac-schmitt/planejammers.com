@@ -12,14 +12,14 @@ lastmod: '2023-01-24'
 draft: false
 ---
 
-Hier findest du die Infos zum Spiel, zu Hausregeln, Tools und den organisatorischen Sachen. Außerdem schreibe ich in diesem Abschnitt die Verabredungen unserer zukünftigen Session Zero auf.
+Hier findest Du die Infos zum Spiel, zu Hausregeln, Tools und den organisatorischen Sachen. Außerdem schreibe ich in diesem Abschnitt die Verabredungen unserer zukünftigen Session Zero auf.
 
 {{< notice warning >}}
 Ein paar Dinge stehen für mich fest. Die sind nicht wirklich verhandelbar, weil es entweder etwas ist, dass mir als Spielleiter Spaß macht oder weil ich genau so auch andere Spielrunden manage und es mir das Leben dadurch leichter macht oder weil ich das so einfach organisatorisch so anbieten kann.
 
 Noch hat keine Session Zero stattgefunden. Das bedeutet für dich, dass diese Inhalte im Augenblick so ziemlich ausschließlich meine Randbedingungen für das Spiel sind. Falls etwas für mich als Spielleiter verhandelbar ist, dann steht das jeweils mit dabei.
 
-Falls dir davon etwas nicht gefällt und du es gern anders hättest, kannst du mir das gern sagen. Die Wahrscheinlichkeit ist aber hoch, dass wir dann diesmal nicht zusammenkommen. Vielleicht dann ein anderes Mal!
+Falls dir davon etwas nicht gefällt und Du es gern anders hättest, kannst Du mir das gern sagen. Die Wahrscheinlichkeit ist aber hoch, dass wir dann diesmal nicht zusammenkommen. Vielleicht dann ein anderes Mal!
 {{< /notice >}}
 
 
@@ -47,9 +47,9 @@ Such Dir einen beliebigen Hintergrund aus. "Custom Background" ist zulässig.
 
 ### Anfangsausrüstung
 
-Auf Verhandlungsbasis. Du kannst auch einfach die Ausrüstung Deiner Klasse nehmen. Aber nimm was auch immer für Dich Sinn macht und Spaß bringt. Mit mir musst Du absprechen, falls Deine Ausrüstung mehr wert ist, als im [Spielerhandbuch unter Anfangsausrüstung angegeben](https://www.dndbeyond.com/sources/phb/equipment#StartingEquipment) ist.
+Auf Verhandlungsbasis. Du kannst auch einfach die Ausrüstung Deiner Klasse nehmen. Aber nimm, was auch immer für Dich Sinn macht und Spaß bringt. Mit mir musst Du absprechen, falls Deine Ausrüstung mehr wert ist, als im [Spielerhandbuch unter Anfangsausrüstung angegeben](https://www.dndbeyond.com/sources/phb/equipment#StartingEquipment) ist.
 
-Du darfst Dir einen magischen Gegenständ mit der Seltenheit "gewöhnlich" aussuchen, wenn Du möchtest.
+Du darfst Dir einen magischen Gegenstand mit der Seltenheit "gewöhnlich" aussuchen, wenn Du möchtest.
 
 ## Spielort
 
@@ -59,7 +59,7 @@ Die Runde wird ausschließlich online stattfinden. Wir spielen mit einem Videoch
 
 ### Termine und Rhythmus
 
-Alle 2 Wochen jeweils am Donnerstagabend. Die Termine ergeben sich aus dem ersten Spiel, das wir in einer Session Zero gemeinsam ausmachen. Wir machen auch gleich eine Jahresplanung der Termine die beispielsweise wegen Urlaub ausfallen. Es bleibt immer beim 2-Wochen-Rhythmus, Termine die ausfallen, fallen einfach aus und es sind dann 4 Wochen zwischen den Sessions.
+Alle 2 Wochen jeweils am Donnerstagabend. Die Termine ergeben sich aus dem ersten Spiel, das wir in einer Session Zero gemeinsam ausmachen. Wir machen auch gleich eine Jahresplanung der Termine, die beispielsweise wegen Urlaub ausfallen. Es bleibt immer beim 2-Wochen-Rhythmus, Termine, die ausfallen, fallen einfach aus und es sind dann 4 Wochen zwischen den Sessions.
 
 ### Beginn und Dauer
 
@@ -67,7 +67,7 @@ Beginn ist um 19 Uhr. Spieldauer einer Session ist mindestens 2 Stunden und höc
 
 ### Absagen
 
-Abgesehen von den geplanten Pausen wegen Urlaub wird es dazu kommen, dass Du oder ich mal nicht können. Wenn ich als Spielleiter ausfalle ist natürlich doof, dann bleibt Dir nur noch die Entscheidung ob Du dich mit den anderen zum quatschen treffen willst. Wenn Du mal nicht kannst, dann bitte rechtzeitig bei allen absagen. Gespielt wird trotzdem, auch wenn jemand fehlt.
+Abgesehen von den geplanten Pausen wegen Urlaub wird es dazu kommen, dass Du oder ich mal nicht können. Wenn ich als Spielleiter ausfalle ist natürlich doof, dann bleibt Dir nur noch die Entscheidung, ob Du dich mit den anderen zum Quatschen treffen willst. Wenn Du mal nicht kannst, dann bitte rechtzeitig bei allen absagen. Gespielt wird trotzdem, auch wenn jemand fehlt.
 
 ## Tools
 
@@ -79,9 +79,9 @@ Die Spielsessions finden in einem "Sprachkanal" auf meinem Discord-Server statt.
 
 Zusätzlich zum "Sprachkanal" gibt es einen Textkanal für die Kampagne. Dieser Textkanal ist mit [D&D Beyond](https://dndbeyond.com) verbunden. Das bedeutet, dass Würfelergebnisse vom Beyond-Charakterbogen automatisch in den Discord-Textkanal übertragen werden können. Außerdem kann der Kanal für Barbie-Play oder Fragen und Chats dazwischen genutzt werden.
 
-Auf dem Server ist noch eine andere Runde von mir. Optionale, gemeinsame Plauderkanäle ermöglichen das Lästern über den gemeinsamen Spielleiter. Vielleicht bist du ja sogar in beiden Gruppen aktiv.
+Auf dem Server ist noch eine andere Runde von mir. Optionale, gemeinsame Plauderkanäle ermöglichen das Lästern über den gemeinsamen Spielleiter. Vielleicht bist Du ja sogar in beiden Gruppen aktiv.
 
-Private Nachrichten, sogenannte "Whispers", erhälst du über einen Direktnachrichtenkanal von mir.
+Private Nachrichten, sogenannte "Whispers", erhältst Du über einen Direktnachrichtenkanal von mir.
 
 ### dndbeyond.com
 
@@ -91,7 +91,7 @@ Wir werden [D&D Beyond](https://dndbeyond.com) auch nutzen, damit ich oder eine 
 
 ### Owlbear.app
 
-Wir spielen manche Kämpfe mit taktischen Karten. Ich nutze dafür [Owlbear Rodeo](https://owlbear.app). Ich teile immer wenn es nötig ist einen Link zur Karte. Du kannst diesen Link bei dir im Browser aufmachen, ich werde aber die Karte auch via Discord streamen. Mal sehen was besser klappt.
+Wir spielen manche Kämpfe mit taktischen Karten. Ich nutze dafür [Owlbear Rodeo](https://owlbear.app). Ich teile wenn es nötig ist einen Link zur Karte. Du kannst diesen Link bei dir im Browser aufmachen, ich werde aber die Karte auch via Discord streamen. Mal sehen was besser klappt.
 
 ### Planejammers.com
 

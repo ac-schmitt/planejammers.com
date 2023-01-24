@@ -29,13 +29,13 @@ Ja. Aber es darf aus Spaß an der Freude nur eine Person mit diesem "Privileg" g
 
 ## Was ist ein Sidekick?
 
-Ein spezieller, zusätzlicher Charakter. Ein treuer Begleiter, ein Freund, ein besonderer Vertrauter. Du spielst den Sidekick die meiste Zeit, vor allem in Kampfsituationen bestimmst du die Handlung Deines Sidekicks. Ich übernehme nur manchmal den Sidekick als NSC. Sie folgen den Regeln aus [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
+Ein spezieller, zusätzlicher Charakter. Ein treuer Begleiter, ein Freund, ein besonderer Vertrauter. Du spielst den Sidekick die meiste Zeit, vor allem in Kampfsituationen bestimmst Du die Handlung Deines Sidekicks. Ich übernehme nur manchmal den Sidekick als NSC. Sie folgen den Regeln aus [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
 
 ## Muss ich einen Sidekick haben?
 
 Ja, im Prinzip schon. 
 
-Wir können vereinzelt eine Ausnahme machen oder Du kannst erstmal ohne Sidekick starten, wenn du noch nicht so viel Erfahrung hast. Aber die Sidekicks bilden zusammen mit den Hauptcharakteren die Mannschaft für das Schiff als ein zentrales Element dieser Story. Und über diese Schiffsbesatzung sollst Du gemeinsam mit den anderen Spielern die Kontrolle haben. Und Sidekicks sind einfacher zu spielen als Charaktere.
+Wir können vereinzelt eine Ausnahme machen oder Du kannst erstmal ohne Sidekick starten, wenn Du noch nicht so viel Erfahrung hast. Aber die Sidekicks bilden zusammen mit den Hauptcharakteren die Mannschaft für das Schiff als ein zentrales Element dieser Story. Und über diese Schiffsbesatzung sollst Du gemeinsam mit den anderen Spielern die Kontrolle haben. Und Sidekicks sind einfacher zu spielen als Charaktere.
 
 Bei manchen Charakterklassen gibt es "Companions" oder "Familiars". Wenn Du möchtest, können wir so ein Feature als Sidekick ausbauen. Aber Du darfst natürlich einen Sidekick haben und zusätzlich bspw. ein "Beast Companion" als Ranger haben.
 
@@ -63,17 +63,17 @@ Unter der Woche!? Ich muss einer Erwerbsarbeit nachgehen, spätestens um 23 Uhr 
 
 ## Wie lange geht die Kampagne?
 
-Grundsätzlich: solange es Spass macht. Ich plane ein offenes Spiel. "Die Welt retten" ist als Ziel ein wenig unambitioniert, aber wir werden sehen. Für meine eigene Planung gehe ich von mindestens 2 Jahren aus, das bringt uns auf knapp 50 Sessions. Wenn es Spass macht gerne auch länger, so von Meilenstein zu Meilenstein. Und wer weiss schon was in 2 Jahren ist.
+Grundsätzlich: solange es Spaß macht. Ich plane ein offenes Spiel. "Die Welt retten" ist als Ziel ein wenig unambitioniert, aber wir werden sehen. Für meine eigene Planung gehe ich von mindestens 2 Jahren aus, das bringt uns auf knapp 50 Sessions. Wenn es Spaß macht gerne auch länger, so von Meilenstein zu Meilenstein. Und wer weiß schon was in 2 Jahren ist.
 
 ## Muss ich was für die Tools (Discord, D&D Beyond, Owlbear) bezahlen?
 
-Nein. Eventuell entstehende Kosten übernehme ich. Du darfst etwas dazugeben, falls du möchtest und kannst, aber das ist absolut nicht notwendig.
+Nein. Eventuell entstehende Kosten übernehme ich. Du darfst etwas dazugeben, falls Du möchtest und kannst, aber das ist absolut nicht notwendig.
 
 Du brauchst bei Discord und D&D Beyond einen Account, bei Owlbear ist es optional.
 
 ## WotC ist böse! Hast du das mit der OGL mitgekriegt? Warum dann überhaupt noch WotC-Angebote (D&D, D&D Beyond) nutzen?
 
-Oh je. Falls Du nicht weisst, für was die Abkürzungen "WotC" und "OGL" stehen, dann ist Frage und Antwort möglicherweise nicht so spannend für Dich.
+Oh je. Falls Du nicht weißt, für was die Abkürzungen "WotC" und "OGL" stehen, dann ist Frage und Antwort möglicherweise nicht so spannend für Dich.
 
 Ich unterstütze [#OpenDND](https://www.opendnd.games/). Zu dem Zeitpunkt, als ich diese Antwort schreibe, ist der Versuch von Wizards of the Coast (WotC) bereits gescheitert ein neues, umfangreiches Vertragswerk als "Open Gaming License" (OGL) in der Version 1.1 durchzudrücken und damit die bestehende und populäre OGL V1.0a zu ersetzen. Die Kontroverse ist noch nicht zu Ende und es ist viel Vertrauen verloren gegangen. 
 
