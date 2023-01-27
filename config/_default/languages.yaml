@@ -3,14 +3,14 @@ en:
   languageName: English
   # Uncomment for multilingual sites, and move the default content into corresponding sub-folder.
   contentDir: content/en
-  copyright: Copyright
+  copyright: CC BY-NC 4.0
 
 de:
   languageCode: de
   languageName: Deutsch
   # Uncomment for multilingual sites, and move the default content into corresponding sub-folder.
   contentDir: content/de
-  copyright: Kopierrecht
+  copyright: CC BY-NC 4.0
 
 # Uncomment for multilingual sites, and customize the following config.
 # zh:

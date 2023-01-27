@@ -1,3 +1,3 @@
 ---
-title: Geschichten
+title: Neuigkeiten
 ---

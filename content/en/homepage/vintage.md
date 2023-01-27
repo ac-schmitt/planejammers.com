@@ -1,7 +1,7 @@
 ---
 title: Vintage
 draft: false
-slogan: Drehen wir am Großen Rad!
+slogan: Stay tuned. Switch back to German!
 imgLeft: images/wheel.jpg
 imgRight: images/title-plate.jpg
 
