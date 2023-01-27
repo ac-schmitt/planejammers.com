@@ -1,7 +1,7 @@
 ---
 title: Vintage
 draft: false
-slogan: Turn the Big Wheel!
+slogan: Stay tuned. Switch back to German!
 imgLeft: images/wheel.jpg
 imgRight: images/title-plate.jpg
 

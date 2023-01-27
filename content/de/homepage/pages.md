@@ -1,23 +1,26 @@
 ---
-title: Vintage
+title: Neuigkeiten
 draft: false
-slogan: Drehen wir am Großen Rad!
-imgLeft: images/wheel.jpg
-imgRight: images/title-plate.jpg
+# Section you want to display
+section: posts
+# Pages count
+count: 3
+# Options: card, plain and masonry.
+style: plain
 
-weight: 1
+weight: 20
 widget:
-  handler: vintage
+  handler: pages
 
   # Options: sm, md, lg and xl. Default is md.
-  width:
+  width: 
 
   sidebar:
     # Options: left and right. Leave blank to hide.
     position: 
     # Options: sm, md, lg and xl. Default is md.
     scale: 
-    
+
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: tertiary
