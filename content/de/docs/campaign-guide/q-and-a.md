@@ -75,10 +75,10 @@ Du brauchst bei Discord und D&D Beyond einen Account, bei Owlbear ist es optiona
 
 Oh je. Falls Du nicht weißt, für was die Abkürzungen "WotC" und "OGL" stehen, dann ist Frage und Antwort möglicherweise nicht so spannend für Dich.
 
-Ich unterstütze [#OpenDND](https://www.opendnd.games/). Zu dem Zeitpunkt, als ich diese Antwort schreibe, ist der Versuch von Wizards of the Coast (WotC) bereits gescheitert ein neues, umfangreiches Vertragswerk als "Open Gaming License" (OGL) in der Version 1.1 durchzudrücken und damit die bestehende und populäre OGL V1.0a zu ersetzen. Die Kontroverse ist noch nicht zu Ende und es ist viel Vertrauen verloren gegangen. 
+Ich unterstütze [#OpenDND](https://www.opendnd.games/). Zu dem Zeitpunkt, als ich diese Antwort schreibe, ist der Versuch von Wizards of the Coast (WotC) bereits gescheitert ein neues, umfangreiches Vertragswerk als "Open Gaming License" (OGL) als Version 1.1 durchzudrücken und damit die bestehende und populäre OGL V1.0a zu ersetzen. Mit [diesem Posting](https://www.dndbeyond.com/posts/1439-ogl-1-0a-creative-commons) ist die Kontroverse erstmal beendet.
 
-Eines der Druckmittel der Community ggü. WotC war/ist es, bestehende [D&D Beyond](https://www.dndbeyond.com/) Abonnements zu kündigen. Das werde ich nicht machen. Ich habe Spass an D&D und ich finde D&D Beyond ein prima Tool und ich nutze es gerne. Ich lasse mir von ein paar doofen und habgierigen Managern doch nicht den Spaß vermiesen.
+Eines der Druckmittel der Community ggü. WotC war/ist es, bestehende [D&D Beyond](https://www.dndbeyond.com/) Abonnements zu kündigen. Das habe ich nicht gemacht und werde ich nicht machen. Ich habe Spass an D&D und ich finde D&D Beyond ein prima Tool und ich nutze es gerne. Ich lasse mir von ein paar doofen und habgierigen Managern doch nicht den Spaß vermiesen.
 
-Die beabsichtigten Änderungen an der OGL zielen auch auf das geplante Virtual Tabletop Angebot von WotC ab. So wie das angekündigt wird (3D, auf Basis der Unreal-Engine) werde ich das nicht benutzen und weiter unabhängige Entwickler, wie die Leute von Owlbear Rodeo oder Roll20 unterstützen.
+Die beabsichtigten Änderungen an der OGL zielten gemäß diverser interner Leaks auf das geplante Virtual Tabletop Angebot von WotC ab. So wie das angekündigt wird (3D, auf Basis der Unreal-Engine) werde ich das nicht benutzen und weiter unabhängige Entwickler, wie die Leute von Owlbear Rodeo oder Roll20 unterstützen.
 
 Falls Du wegen den jüngsten Aktionen von WotC nicht D&D Beyond benutzen möchtest oder gar keine Lust mehr auf D&D hast, dann verstehe ich das, aber dann kommen wir in dieser Runde hier nicht zusammen.
