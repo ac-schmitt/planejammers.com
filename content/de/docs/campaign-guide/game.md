@@ -8,7 +8,7 @@ categories:
 series:
 weight: 20
 date: '2023-01-24'
-lastmod: '2023-01-24'
+lastmod: '2023-01-30'
 draft: false
 ---
 
@@ -49,7 +49,7 @@ Such Dir einen beliebigen Hintergrund aus. "Custom Background" ist zulässig.
 
 Auf Verhandlungsbasis. Du kannst auch einfach die Ausrüstung Deiner Klasse nehmen. Aber nimm, was auch immer für Dich Sinn macht und Spaß bringt. Mit mir musst Du absprechen, falls Deine Ausrüstung mehr wert ist, als im [Spielerhandbuch unter Anfangsausrüstung angegeben](https://www.dndbeyond.com/sources/phb/equipment#StartingEquipment) ist.
 
-Du darfst Dir einen magischen Gegenstand mit der Seltenheit "gewöhnlich" aussuchen, wenn Du möchtest.
+Du darfst Dir einen magischen Gegenstand mit der Seltenheit "gewöhnlich" ("common") aussuchen, wenn Du möchtest.
 
 ## Spielort
 
@@ -67,7 +67,7 @@ Beginn ist um 19 Uhr. Spieldauer einer Session ist mindestens 2 Stunden und höc
 
 ### Absagen
 
-Abgesehen von den geplanten Pausen wegen Urlaub wird es dazu kommen, dass Du oder ich mal nicht können. Wenn ich als Spielleiter ausfalle ist natürlich doof, dann bleibt Dir nur noch die Entscheidung, ob Du dich mit den anderen zum Quatschen treffen willst. Wenn Du mal nicht kannst, dann bitte rechtzeitig bei allen absagen. Gespielt wird trotzdem, auch wenn jemand fehlt.
+Abgesehen von den geplanten Pausen wegen Urlaub wird es dazu kommen, dass Du oder ich ausnahmsweise mal nicht können. Wenn ich als Spielleiter ausfalle ist natürlich doof, dann bleibt Dir nur noch die Entscheidung, ob Du dich mit den anderen zum Quatschen treffen willst. Wenn Du mal nicht kannst, dann bitte rechtzeitig bei allen absagen. Am besten via Discord (siehe gleich im Abschnitt Tools). Gespielt wird trotzdem, auch wenn jemand fehlt.
 
 ## Tools
 
