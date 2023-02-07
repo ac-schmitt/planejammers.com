@@ -11,17 +11,15 @@ lastmod: '2023-01-22'
 draft: false
 ---
 
-> Eine geheimnisvolle Botin überbringt Dir einen versiegelten Briefumschlag einer Anwaltskanzlei. Der Umschlag enthält eine überraschende Nachricht: Du hast geerbt! Ein verstorbener weit entfernter Verwandter oder der Freund eines Freundes hinterlässt dir einen großen Anteil seines Vermögens im Umfang und Wert von mehr als 100.000 Goldstücken! Im Umschlag ist noch eine Stimmgabel aus einem seltsamen Material, die einen ungewöhnlichen Ton von sich gibt. Gemäß dem Schreiben hast Du einen Tag Zeit zu überlegen, ob Du das Erbe antreten möchtest. Falls ja, suche innerhalb dieser Zeit die Botin auf, die in der Nähe deines Aufenthaltsortes so lange warten wird.
+> Eine geheimnisvolle Botin überbringt Dir einen versiegelten Briefumschlag einer Anwaltskanzlei. Der Umschlag enthält eine überraschende Nachricht: Du hast geerbt! Ein verstorbener weit entfernter Verwandter oder der Freund eines Freundes oder jemand, der dir völlig unbekannt ist hinterlässt dir einen großen Anteil seines Vermögens im Umfang und Wert von mehr als 100.000 Goldstücken! Im Umschlag ist noch eine Stimmgabel aus einem seltsamen Material, die einen ungewöhnlichen Ton von sich gibt. Gemäß dem Schreiben hast Du einen Tag Zeit zu überlegen, ob Du das Erbe antreten möchtest. Falls ja, suche innerhalb dieser Zeit die Botin auf, die in der Nähe deines Aufenthaltsortes so lange warten wird.
 
-So wird es angefangen haben. Du spürst die Aufregung. Das ist es! Endlich erkennt jemand Deine wahre Größe und Bestimmung!
-
-Der gnomische Erblasser ist Magister Hobbrick Nempom Tulnet der Fünfte von und zu Bynjibaam aus dem Haus Puwekneck-Gunsmonell. Du bist wahrscheinlich auch ein Gnom. Oder mit Gnomen verwandt. Oder Du kennst Gnome. Oder Du kennst jemanden, der jemanden kennt. Oder Du lebst gemeinsam mit anderen Leuten, die so um die 3 oder 4 Fuß klein sind. Nur eine Person, die den Briefumschlag erhalten hat und das Erbe antreten wird, darf größer sein als 4 Fuß!
+So wird es angefangen haben. Du spürst die Aufregung. Das ist es! Endlich erkennt jemand Deine wahre Größe und Bestimmung! Oder jemand erkennt, dass du es wirklich verdient hast! Jemand mit dem Namen Magister Hobbrick Nempom Tulnet der Fünfte von und zu Bynjibaam aus dem Haus Puwekneck-Gunsmonell. Wer soll das für Dich sein?
 
 ## Setting
 
 Das Genre ist "Pulp Science Fantasy", im Mittelpunkt steht ein Fantasy-Raumschiff gebaut von und für Gnome. Ein sogenannter "Spelljammer". Das Setting ist damit eine Mischung klassischem High-Fantasy und den schiffzentrierten Star-Trek Abenteuern. Oder wie Firefly/Serenity halt anstatt Westernhintergrund mit Conan-Fantasy. Oder Star Wars ohne die Pseudotech. Ein wichtiger Charakter ist die Spelljammer selbst.
 
-Als Spielercharakter bist Du Mannschaftsmitglied oder besitzt Anteile am Schiff. Die gesamte Besatzung besteht aus Spielercharakteren und Sidekicks. Jeder Spielercharakter wird von einem Sidekick begleitet: ein bester Freund, eine Geliebte, ein besonderes Haustier, ein magischer Familiar oder was ganz anderes.
+Als Spielercharakter wirst Du Mannschaftsmitglied sein oder Anteile am Schiff besitzen. Die gesamte Besatzung besteht aus Spielercharakteren und Sidekicks. Jeder Spielercharakter wird von einem Sidekick begleitet: ein bester Freund, eine Geliebte, ein besonderes Haustier, ein magischer Familiar oder was ganz anderes.
 
 Die willkürliche und hoffentlich spannende Einschränkung ist: alle Spielercharaktere und ihre Sidekicks sind "small" im Sinne der D&D-Regeln: traditionell Gnome oder Halblinge aus dem Spielerhandbuch, Goblins oder Faeries aus "Monsters of the Multiverse". Dieses Quellenbuch hat für bestimmte Völker die Größe als wählbare Option eingeführt: beispielsweise bei den Aasimar oder den Genasi. Diese Auflistungen sind nicht vollständig und es kann außerdem genau eine Ausnahme geben.
 

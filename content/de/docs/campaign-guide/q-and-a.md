@@ -29,15 +29,19 @@ Ja. Aber es darf aus Spaß an der Freude nur eine Person mit diesem "Privileg" g
 
 ## Was ist ein Sidekick?
 
-Ein spezieller, zusätzlicher Charakter. Ein treuer Begleiter, ein Freund, ein besonderer Vertrauter. Du spielst den Sidekick die meiste Zeit, vor allem in Kampfsituationen bestimmst Du die Handlung Deines Sidekicks. Ich übernehme nur manchmal den Sidekick als NSC. Sie folgen den Regeln aus [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
+Ein spezieller, zusätzlicher Charakter. Ein treuer Begleiter, ein Freund, ein besonderer Vertrauter. Du spielst den Sidekick die meiste Zeit. Falls der Sidekick in Kampfsituationen mit dabei ist, bestimmst Du die Handlung Deines Sidekicks. Ich übernehme manchmal den Sidekick als NSC. Sie folgen den Regeln aus [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
 
 ## Muss ich einen Sidekick haben?
 
-Ja, im Prinzip schon. 
+Ja, im Prinzip schon.
 
 Wir können vereinzelt eine Ausnahme machen oder Du kannst erstmal ohne Sidekick starten, wenn Du noch nicht so viel Erfahrung hast. Aber die Sidekicks bilden zusammen mit den Hauptcharakteren die Mannschaft für das Schiff als ein zentrales Element dieser Story. Und über diese Schiffsbesatzung sollst Du gemeinsam mit den anderen Spielern die Kontrolle haben. Und Sidekicks sind einfacher zu spielen als Charaktere.
 
 Bei manchen Charakterklassen gibt es "Companions" oder "Familiars". Wenn Du möchtest, können wir so ein Feature als Sidekick ausbauen. Aber Du darfst natürlich einen Sidekick und zusätzlich bspw. ein "Beast Companion" als Ranger haben.
+
+## Wird das Spiel dadurch nicht langsam?
+
+Mal sehen. Alle Charaktere und Sidekicks gleichzeitig werden wahrscheinlich nur agieren, wenn es um Situation an Bord des Schiffes geht. Also Kämpfe gegen Piraten oder Weltraummonster. Dann sind auch Dinge außerhalb "der Initiative" zu tun, wie bpsw. Bordwaffen nachladen. Sonst gehe ich davon aus, dass eure Charaktere und Sidekicks häufig auch getrennte Wege gehen, beispielsweise, dass die Sidekicks ganz profan auf das Schiff aufpassen, während die Spielercharaktere woanders unterwegs sind.
 
 ## Darf ich eine Homebrew-Klasse spielen?
 
