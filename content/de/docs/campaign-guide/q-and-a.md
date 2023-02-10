@@ -8,7 +8,7 @@ categories:
 series:
 weight: 30
 date: '2023-01-24'
-lastmod: '2023-01-24'
+lastmod: '2023-02-08'
 draft: false
 ---
 
@@ -23,7 +23,7 @@ Klar. Es geht ganz am Anfang und ganz langsam los.
 
 ## Darf ich einen Charakter mit einer "Größe" über "Klein" spielen?
 
-Ja. Aber es darf aus Spaß an der Freude nur eine Person mit diesem "Privileg" geben. Wer das ist, klärt sich in einer Session 0.
+Ja. Aber es darf aus Spaß an der Freude nur eine Person mit einer abweichenden Größe geben. Wer das ist, und ob überhaupt jemand möchte, klärt sich in einer Session 0.
 
 (Die Begriffe in der Frage in Anführungszeichen sind Regelbegriffe. Im englischen Regelwerk ist das "Size" und "Small")
 

@@ -18,7 +18,7 @@ Pulp-Science-Fantasy im Multiversum von Dungeons & Dragons an Bord einer Spellja
 Das hier ist ganz offensichtlich im Aufbau. Im Laufe der Zeit und der Kampagne wird hier mehr Inhalt entstehen.
 {{< /notice >}}
 
-Aaron und Marie haben eine Folge ihres [Dungeons & Denglisch Podcasts](https://dungeonsunddenglisch.buzzsprout.com/) dem D6D Multiversum gewidmet. Hör gern mal rein, natürlich lohnen sich auch alle anderen Folgen!
+Aaron und Marie haben eine Folge ihres [Dungeons & Denglisch Podcasts](https://dungeonsunddenglisch.buzzsprout.com/) dem D&D Multiversum gewidmet. Hör gern mal rein, natürlich lohnen sich auch alle anderen Folgen!
 
 {{< youtube RQFs2EgwNEU >}}
 
