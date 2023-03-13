@@ -33,15 +33,13 @@ Ein spezieller, zusätzlicher Charakter. Ein treuer Begleiter, ein Freund, ein b
 
 ## Muss ich einen Sidekick haben?
 
-Ja, im Prinzip schon.
+Nein. Sidekicks sind optional. Nimm nur einen Sidekick, wenn du dich im Spielsystem sicher fühlst.
 
-Wir können vereinzelt eine Ausnahme machen oder Du kannst erstmal ohne Sidekick starten, wenn Du noch nicht so viel Erfahrung hast. Aber die Sidekicks bilden zusammen mit den Hauptcharakteren die Mannschaft für das Schiff als ein zentrales Element dieser Story. Und über diese Schiffsbesatzung sollst Du gemeinsam mit den anderen Spielern die Kontrolle haben. Und Sidekicks sind einfacher zu spielen als Charaktere.
+~~Ja, im Prinzip schon.~~
 
-Bei manchen Charakterklassen gibt es "Companions" oder "Familiars". Wenn Du möchtest, können wir so ein Feature als Sidekick ausbauen. Aber Du darfst natürlich einen Sidekick und zusätzlich bspw. ein "Beast Companion" als Ranger haben.
+~~Wir können vereinzelt eine Ausnahme machen oder Du kannst erstmal ohne Sidekick starten, wenn Du noch nicht so viel Erfahrung hast. Aber die Sidekicks bilden zusammen mit den Hauptcharakteren die Mannschaft für das Schiff als ein zentrales Element dieser Story. Und über diese Schiffsbesatzung sollst Du gemeinsam mit den anderen Spielern die Kontrolle haben. Und Sidekicks sind einfacher zu spielen als Charaktere.~~
 
-## Wird das Spiel dadurch nicht langsam?
-
-Mal sehen. Alle Charaktere und Sidekicks gleichzeitig werden wahrscheinlich nur agieren, wenn es um Situation an Bord des Schiffes geht. Also Kämpfe gegen Piraten oder Weltraummonster. Dann sind auch Dinge außerhalb "der Initiative" zu tun, wie bpsw. Bordwaffen nachladen. Sonst gehe ich davon aus, dass eure Charaktere und Sidekicks häufig auch getrennte Wege gehen, beispielsweise, dass die Sidekicks ganz profan auf das Schiff aufpassen, während die Spielercharaktere woanders unterwegs sind.
+~~Bei manchen Charakterklassen gibt es "Companions" oder "Familiars". Wenn Du möchtest, können wir so ein Feature als Sidekick ausbauen. Aber Du darfst natürlich einen Sidekick und zusätzlich bspw. ein "Beast Companion" als Ranger haben.~~
 
 ## Darf ich eine Homebrew-Klasse spielen?
 

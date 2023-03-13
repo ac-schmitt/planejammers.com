@@ -39,7 +39,7 @@ Bei vielen der aktualisierten Völker aus [Monsters of the Multiverse](https://w
 
 ### Stufe der Charaktere
 
-Du beginnst mit Charakteren der Stufe 1. Also einem Hauptcharakter und einem Sidekick der Stufe 1.
+Du beginnst mit Charakteren der Stufe 1. Also einem Hauptcharakter der Stufe 1 und optional einem Sidekick der Stufe 1.
 
 ### Hintergrund
 

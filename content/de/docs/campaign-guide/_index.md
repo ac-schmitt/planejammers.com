@@ -19,7 +19,7 @@ So wird es angefangen haben. Du spürst die Aufregung. Das ist es! Endlich erken
 
 Das Genre ist "Pulp Science Fantasy", im Mittelpunkt steht ein Fantasy-Raumschiff gebaut von und für Gnome. Ein sogenannter "Spelljammer". Das Setting ist damit eine Mischung klassischem High-Fantasy und den schiffzentrierten Star-Trek Abenteuern. Oder wie Firefly/Serenity halt anstatt Westernhintergrund mit Conan-Fantasy. Oder Star Wars ohne die Pseudotech. Ein wichtiger Charakter ist die Spelljammer selbst.
 
-Als Spielercharakter wirst Du Mannschaftsmitglied sein oder Anteile am Schiff besitzen. Die gesamte Besatzung besteht aus Spielercharakteren und Sidekicks. Jeder Spielercharakter wird von einem Sidekick begleitet: ein bester Freund, eine Geliebte, ein besonderes Haustier, ein magischer Familiar oder was ganz anderes.
+Als Spielercharakter wirst Du Mannschaftsmitglied sein oder Anteile am Schiff besitzen. Die gesamte Besatzung besteht aus Spielercharakteren und Sidekicks. Jeder Spielercharakter kann ~~wird~~ von einem Sidekick begleitet werden: ein bester Freund, eine Geliebte, ein besonderes Haustier, ein magischer Familiar oder was ganz anderes.
 
 Die willkürliche und hoffentlich spannende Einschränkung ist: alle Spielercharaktere und ihre Sidekicks sind "small" im Sinne der D&D-Regeln: traditionell Gnome oder Halblinge aus dem Spielerhandbuch, Goblins oder Faeries aus "Monsters of the Multiverse". Dieses Quellenbuch hat für bestimmte Völker die Größe als wählbare Option eingeführt: beispielsweise bei den Aasimar oder den Genasi. Diese Auflistungen sind nicht vollständig und es kann außerdem genau eine Ausnahme geben.
 
