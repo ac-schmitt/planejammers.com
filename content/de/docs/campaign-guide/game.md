@@ -27,6 +27,10 @@ Falls dir davon etwas nicht gefällt und Du es gern anders hättest, kannst Du m
 
 [Dungeons & Dragons, 5th Edition](https://dnd.wizards.com/). Ich spiele einen Mix aus Englisch und Deutsch, viele "Fachbegriffe" benutze ich auf Englisch (auch hier auf der Website). Aber ich kann auch immer den deutschen Begriff dazu sagen. Das Setting spielt [im Dungeons & Dragons Multiversum]({{< ref "world" >}}), das gesamte offizielle Material ist erlaubt, inklusive den Inhalten von [Critical Role](https://critrole.com/).
 
+### Hausregeln
+
+Folge den Hyperlink -> [Hausregeln]({{< ref "house-rules" >}}).
+
 ### Völker
 
 Du musst Dir ein Volk in der Kategorie "klein" für die Größe aussuchen. Alle Völker und Volksunterarten der offiziellen Quellenbücher sind erlaubt, inklusive der Publikationen von Critical Role.
@@ -40,6 +44,12 @@ Bei vielen der aktualisierten Völker aus [Monsters of the Multiverse](https://w
 ### Stufe der Charaktere
 
 Du beginnst mit Charakteren der Stufe 1. Also einem Hauptcharakter der Stufe 1 und optional einem Sidekick der Stufe 1.
+
+### Stufenaufstieg
+
+{{< notice info >}}
+Wird in [Session 0]({{< ref "session-0" >}}) festgelegt.
+{{< /notice >}}
 
 ### Hintergrund
 
@@ -102,3 +112,4 @@ Diese Website enthält alle Materialien, die ich öffentlich und für alle teile
 {{< notice info >}}
 Es wird eine Session 0 geben. Was wir in dieser Session 0 festlegen, schreibe ich hier auf.
 {{< /notice >}}
+
