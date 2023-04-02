@@ -112,7 +112,13 @@ Wir spielen manche Kämpfe mit taktischen Karten. Ich nutze dafür [Owlbear Rode
 
 ### Planejammers.com
 
-Diese Website enthält alle Materialien, die ich öffentlich und für alle teilen möchte. 
+Diese Website enthält alle Materialien, die ich öffentlich und für alle teilen möchte.
+
+### Verschiedene nützliche Dinge
+
+* Die [PIF & Co Schnellreferenz](https://pifco.org/quickref.html)
+* Der [D&D-Deutsch Übersetzer](https://www.dnddeutsch.de/uebersetzer/)
+* [Token Stamp Maker](https://rolladvantage.com/tokenstamp/)
 
 ## Session 0
 
