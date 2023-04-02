@@ -29,7 +29,7 @@ Hier liste ich alle Hausregeln für die Planejammers Kampagne. Die meisten davon
 
 | English | Deutsch |
 | ------- | ------- |
-| You automatically succeed a [Grappling](https://www.dndbeyond.com/sources/phb/combat#Grappling) or [Shoving](https://www.dndbeyond.com/sources/phb/combat#ShovingaCreature) special melee attack as if the target where [incapacitated](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Incapacitated). | Beim _Ringen_ oder _Stossen_ bist automatisch erfolgreich, falls das Ziel _betäubt_ ist.
+| You automatically succeed a [Grappling](https://www.dndbeyond.com/sources/phb/combat#Grappling) or [Shoving](https://www.dndbeyond.com/sources/phb/combat#ShovingaCreature) special melee attack on a [stunned](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Stunned) target as if the target where [incapacitated](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Incapacitated). | Beim _Ringen_ oder _Stossen_ bist automatisch erfolgreich, falls das Ziel _betäubt_ ist.
 
 ## Spells | Zauber
 
