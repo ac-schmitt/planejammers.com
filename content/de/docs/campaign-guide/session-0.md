@@ -123,6 +123,6 @@ _Wir werfen reihum einen Blick auf die bisherigen Konzepte und Spielercharaktere
 
 _Ein kurzer Blick auf die Tools aus dem [Abschnitt zum Spiel]({{< ref "game" >}}):_
 
-1. Discord Channel, Threads und würfeln
+1. Discord Channel, Threads, Events und würfeln
 2. D&D Beyond - Homebrew Content und würfeln
 3. Owlbear.app - Eine Beispielkarte
