@@ -34,7 +34,7 @@ _Beantworte die Fragen:_
 
 _Notiere die Antworten in Deinem digitalen Charakterbogen auf D&D-Beyond unter "Notes -> Backstory". Du kannst natürlich mehr als diese Antworten als die Hintergrundgeschichte Deines Charakters verfassen. Ich als Spielleiter schaue da rein. Aber ein Tipp aus Erfahrung: weniger ist mehr._
 
-TODO: Beispielbild
+![Screenshot von: Was ist die Motivation Deines Charakters dieser Botin ins Ungewisse zu folgen? Ich bin pleite. Alles, was ich noch habe, trage ich am Leib. Und ich habe gerade noch 10 Gold in unterschiedlichen Münzen übrig. Welche Beziehung hat Dein Charakter zu Magister Hobbrick? Nie gehört der Typ. Könnte mich mit jemandem verwechseln. Egal. Wer die Mittel hat, so jemanden wie die Botin zu beauftragen hat nicht nur ein bisschen Kohle. Da wird doch was für mich abfallen, oder nicht?](background-example.jpg)
 
 ## Regeln
 
@@ -123,6 +123,6 @@ _Wir werfen reihum einen Blick auf die bisherigen Konzepte und Spielercharaktere
 
 _Ein kurzer Blick auf die Tools aus dem [Abschnitt zum Spiel]({{< ref "game" >}}):_
 
-1. Discord Channel, Threads, Events und würfeln
-2. D&D Beyond - Homebrew Content und würfeln
+1. D&D Beyond - Homebrew Content und würfeln
+2. Discord Channel, Threads, Events und würfeln
 3. Owlbear.app - Eine Beispielkarte

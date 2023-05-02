@@ -44,3 +44,5 @@ Die "Homebrew Version" von jedem angepassten Zauber könnt ihr über eure Charak
 ## Scrolls
 
 Mit dem Feat (Talent) [Magic Initiate](https://www.dndbeyond.com/feats/magic-initiate) (_Eingeweihter der Magie_) kannst Du Scrolls (Schriftrollen) der entsprechenden Spruchliste nutzen. Jede Nutzung einer Schriftrolle erfordert allerdings einen Wurf auf Arcana, wie bei einem Zauber, der eine zu hohe Stufe für Dich hat. Ausnahme sind genau die Zauber, die du über dieses Talent gelernt hast.
+
+## Fading Spirits?

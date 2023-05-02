@@ -41,12 +41,6 @@ Bei vielen der aktualisierten Völker aus [Monsters of the Multiverse](https://w
 
 Du beginnst mit Charakteren der Stufe 1. Also einem Hauptcharakter der Stufe 1 und optional einem Sidekick der Stufe 1.
 
-### Stufenaufstieg
-
-{{< notice info >}}
-Wird in [Session 0]({{< ref "session-0" >}}) festgelegt.
-{{< /notice >}}
-
 ### Attributswerte
 
 Um die Attributswerte (Ability Scores) zu ermitteln sind zwei Methoden zulässig:
@@ -63,6 +57,13 @@ Such Dir einen beliebigen Hintergrund aus. "Custom Background" ist zulässig.
 Auf Verhandlungsbasis. Du kannst auch einfach die Ausrüstung Deiner Klasse nehmen. Aber nimm, was auch immer für Dich Sinn macht und Spaß bringt. Mit mir musst Du absprechen, falls Deine Ausrüstung mehr wert ist, als im [Spielerhandbuch unter Anfangsausrüstung angegeben](https://www.dndbeyond.com/sources/phb/equipment#StartingEquipment) ist.
 
 Du darfst Dir einen magischen Gegenstand mit der Seltenheit "gewöhnlich" ("common") aussuchen, wenn Du möchtest.
+
+### Stufenaufstieg
+
+{{< notice info >}}
+Milestone oder XP?
+Wird in [Session 0]({{< ref "session-0" >}}) festgelegt.
+{{< /notice >}}
 
 ### Hausregeln
 
