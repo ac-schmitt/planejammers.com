@@ -40,8 +40,9 @@ _Notiere die Antworten in Deinem digitalen Charakterbogen auf D&D-Beyond unter "
 
 1. Wiederholung der Festlegungen im [Abschnitt zum Spiel]({{< ref "game" >}}).
 2. Gemeinsame Festlegung: Milestones oder Erfahrungspunkte?
-3. Gemeinsame Abstimmung der [Hausregeln]({{< ref "house-rules" >}}).
-4. Gemeinsam auf die "Benimm"-Regeln schauen:
+3. Gemeinsame Festlegung: Hit Points würfeln oder fester Wert?
+4. Gemeinsame Abstimmung der [Hausregeln]({{< ref "house-rules" >}}).
+5. Gemeinsam auf die "Benimm"-Regeln schauen:
 
 ### "Benimm"-Regeln
 

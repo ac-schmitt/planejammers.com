@@ -62,7 +62,10 @@ Du darfst Dir einen magischen Gegenstand mit der Seltenheit "gewöhnlich" ("comm
 
 {{< notice info >}}
 Milestone oder XP?
-Wird in [Session 0]({{< ref "session-0" >}}) festgelegt.
+
+Hit Points Würfeln oder fester Wert?
+
+-> Wird in [Session 0]({{< ref "session-0" >}}) festgelegt.
 {{< /notice >}}
 
 ### Hausregeln
