@@ -12,16 +12,7 @@ lastmod: '2023-05-11'
 draft: false
 ---
 
-Hier findest Du die Infos zum Spiel, zu Hausregeln, Tools und den organisatorischen Sachen. Außerdem schreibe ich in diesem Abschnitt die Verabredungen unserer zukünftigen Session Zero auf.
-
-{{< notice warning >}}
-Ein paar Dinge stehen für mich fest. Die sind nicht wirklich verhandelbar, weil es entweder etwas ist, dass mir als Spielleiter Spaß macht oder weil ich genau so auch andere Spielrunden manage und es mir das Leben dadurch leichter macht oder weil ich das so einfach organisatorisch so anbieten kann.
-
-Noch hat keine Session Zero stattgefunden. Das bedeutet für dich, dass diese Inhalte im Augenblick so ziemlich ausschließlich meine Randbedingungen für das Spiel sind. Falls etwas für mich als Spielleiter verhandelbar ist, dann steht das jeweils mit dabei.
-
-Falls dir davon etwas nicht gefällt und Du es gern anders hättest, kannst Du mir das gern sagen. Die Wahrscheinlichkeit ist aber hoch, dass wir dann diesmal nicht zusammenkommen. Vielleicht dann ein anderes Mal!
-{{< /notice >}}
-
+Hier findest Du die Infos zum Spiel, zu Hausregeln, Tools und den organisatorischen Sachen. Hier gibt es Links auf meine [Hausregeln]({{< ref "house-rules" >}}) und die Festlegungen der [Session 0]({{< ref "session-0" >}}).
 
 ## Spielsystem
 
