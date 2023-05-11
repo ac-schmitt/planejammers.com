@@ -8,7 +8,7 @@ categories:
 series:
 weight: 20
 date: '2023-01-24'
-lastmod: '2023-01-30'
+lastmod: '2023-05-11'
 draft: false
 ---
 
@@ -60,17 +60,11 @@ Du darfst Dir einen magischen Gegenstand mit der Seltenheit "gewöhnlich" ("comm
 
 ### Stufenaufstieg
 
-{{< notice info >}}
-Milestone oder XP?
-
-Hit Points Würfeln oder fester Wert?
-
--> Wird in [Session 0]({{< ref "session-0" >}}) festgelegt.
-{{< /notice >}}
+Für den Stufenaufstieg nutzen wir die Methode "Geschichtsbasierter Aufstieg" ohne XP. Auch "Milestones" genannt. Bei einem Stufenaufstieg gibt es einen festen Wert an zusätzlichen Trefferpunkten gemäß der Klassenbeschreibung mit der du aufsteigst.
 
 ### Hausregeln
 
-Folge den Hyperlink -> [Hausregeln]({{< ref "house-rules" >}}).
+Folge dem Hyperlink -> [Hausregeln]({{< ref "house-rules" >}}).
 
 ## Spielort
 
@@ -126,7 +120,4 @@ Diese Website enthält alle Materialien, die ich öffentlich und für alle teile
 
 ## Session 0
 
-{{< notice info >}}
-Es wird eine Session 0 geben. Was wir in dieser Session 0 festlegen, schreibe ich hier auf.
-{{< /notice >}}
-
+Folge dem Hyperlink -> [Session 0]({{< ref "session-0" >}}).

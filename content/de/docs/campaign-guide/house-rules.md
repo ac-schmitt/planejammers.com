@@ -8,7 +8,7 @@ categories:
 series:
 weight: 40
 date: '2023-03-31'
-lastmod: '2023-03-31'
+lastmod: '2023-05-11'
 draft: false
 ---
 
@@ -45,4 +45,9 @@ Die "Homebrew Version" von jedem angepassten Zauber könnt ihr über eure Charak
 
 Mit dem Feat (Talent) [Magic Initiate](https://www.dndbeyond.com/feats/magic-initiate) (_Eingeweihter der Magie_) kannst Du Scrolls (Schriftrollen) der entsprechenden Spruchliste nutzen. Jede Nutzung einer Schriftrolle erfordert allerdings einen Wurf auf Arcana, wie bei einem Zauber, der eine zu hohe Stufe für Dich hat. Ausnahme sind genau die Zauber, die du über dieses Talent gelernt hast.
 
-## Fading Spirits?
+## Fading Spirits
+
+[Revivify](https://www.dndbeyond.com/spells/revivify), [Raise Dead](https://www.dndbeyond.com/spells/raise-dead), [Reincarnate](https://www.dndbeyond.com/spells/reincarnate), [Resurrection](https://www.dndbeyond.com/spells/resurrection) oder [True Resurrection](https://www.dndbeyond.com/spells/true-resurrection) funktionieren nicht automatisch. Der Caster muss einen Skill Check mit der Spellcasting Ability machen. Der DC ist 10 plus 1 für jeden vergangenen Fehlschlag oder erfolgreichen Wiedererweckung des Characters. 
+
+Dem Caster darf geholfen werden, z.B. mittels Gebeten oder einer Herzmassage. Bei einem Fehlschlag bleibt das Ziel tot, aber man kann es gleich wieder probieren. Der DC steigt für das Ziel jeweils um 1 für jeden Fehlschlag an.
+

@@ -8,11 +8,11 @@ categories:
 series:
 weight: 50
 date: '2023-03-31'
-lastmod: '2023-03-31'
+lastmod: '2023-05-11'
 draft: false
 ---
 
-Das hier ist die Agenda und für die Session 0. Während der Session 0 schreibe ich unsere Notizen hier hinein.
+Das hier ist die Agenda und für die Session 0. Alle Festlegungen in Session 0 habe hier festgehalten.
 
 ## Vorstellungsrunde
 
@@ -69,30 +69,24 @@ _**Lines** sind Themen oder Aktionen, die ihr nicht im Spiel haben wollt. Also q
 
 Lines:
 
-* hier
-* bei
-* Bedarf
-* ergänzen
+* Kinder umbringen
+* Kindesmissbrauch
 
 _**Veils** sind Themen die zwar vorkommen, aber die ihr nur relativ vage beschrieben haben wollt. Sex gehört da häufig mit dazu. Es kommt schon vor, aber die "Kamera" blendet dann relativ schnell weg. Hollywood Style. Auch die Massenvernichtung im Star Wars Episode IV ist so ein "Veil". Gebt mir einen Hinweis auf Themen, die für euch hinter den Schleier des Weichzeichners sollen._
 
 Veils:
 
-* hier
-* bei
-* Bedarf
-* ergänzen
-
+* Gräueltaten. Können vorkommen, werden aber eher Nachrichtentechnisch abgehandelt.
+* Ausführliche "Splatter"-beschreibungen. Das spritzende Blut muss nicht in die Länge gezogen werden.
+* Sex. Kommt bestimmt vor, wird aber mit einem Weichzeichner versehen.
 
 ### X-Karte
 
-_Es gibt einen Mechanismus aus dem kink-Bereich, der auch für Tabletop-Rollenspiele eine Option ist: die sogenannte X-Card oder ein Safe-Word. Wenn immer es zu Handlungen oder Szenen kommt, bei denen ihr euch nicht wohl fühlt, könnt ihr diese Karte ausspielen. Bei Online-Rollenspielen ist es tatsächlich besser ein Safe-Word zu haben. Daher die Frage: möchtet ihr so einen Mechanismus haben?_
-
-Antwort: tbd
+Wenn immer es zu Handlungen oder Szenen kommt, bei denen ihr euch nicht wohl fühlt, könnt ihr die "X-Karte" ausspielen. Ihr sagt "X-Karte" oder "X-Card" und könnt auch die Arme vor der Kamera kreuzen. Es wird keine Erklärung erwartet. Als Spielleiter railroade ich dann in die nächste Szene.
 
 ### Balance
 
-_Habt ihr einen Wunsch für die Schwerpunkte?_
+Ausbalanciert. Von allem etwas.
 
 ```
 Level         1 2 3 4 5
@@ -104,11 +98,7 @@ Rollenspiel : X X X . .
 
 ### Schwierigkeitsgrad
 
-_Ich benutze keine der optionalen Regeln, um Dungeons & Dragons schwieriger zu machen. Wir spielen nach den "Vanilla"-Reglen. Dennoch: nicht jede Begegnung, nicht jeder Kampf wird für euch erfolgreich sein. Es kann dazu kommen, dass die Würfel tödlich für euch fallen. Als Spielleiter kann ich da eingreifen. Viele Runden einigen sich darauf, dass das Ableben von Charakter passieren kann, aber dann eine Art "Bedeutung" haben soll. Wie hättet ihr es gerne:_
-
-- Ja, genau so. Greife als Spielleiter ruhig ein oder verbiege Ergebnisse auf deiner Seite / hinter dem Screen.
-- Egal. Die Würfel fallen wie Würfel fallen. Dann mach ich mir halt einen neuen Charakter.
-- Spielercharaktere sollen gar nicht sterben!!!11!!
+Wir benutzen keine der optionalen Regeln, um Dungeons & Dragons schwieriger zu machen. Wir spielen nach den "Vanilla"-Reglen. Dennoch: nicht jede Begegnung, nicht jeder Kampf wird erfolgreich sein. Es kann dazu kommen, dass die Würfel tödlich für euch fallen. Als Spielleiter greife ich dann gegebenenfalls und nutze die Würfel vielleicht nicht genau so wie sie hinter meinem Schirm fallen. Als Daumenregel greife ich dann ein, falls es sich umunverschuldetes Pech handel, eine Folge von wirklich schlechten Würfelwürfen, einem Tod in einer bedeutungslosen Situation, etc. Es gilt aber auch die Randbedingung, dass ich das eher dann mache, wenn ihr keine Möglichkeiten habt, die Folgen abzuwenden. Aber bewusste und eindeutige Entscheidungen von Spielercharakteren sind bewusste und eindeutige Entscheidungen und da mache ich nix dran. Außerdem, je mehr euch sowas wie Revivify oder Raise Dead zur Verfügung steht, desto weniger verbiege ich das Schicksal.
 
 ### Meta-Wissen
 
