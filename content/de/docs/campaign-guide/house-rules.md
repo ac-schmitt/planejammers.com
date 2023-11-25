@@ -37,8 +37,8 @@ Die "Homebrew Version" von jedem angepassten Zauber könnt ihr über eure Charak
 
 | Spell | Homebrew Version | Anmerkung |
 | ----- | ---------------- | --------- |
-| Aid   | [Fohleireih's Alter Self](https://www.dndbeyond.com/spells/1889771-fohleireihs-alter-self) | Erlaubt sich in eine kleine oder mittelgroße Kreatur zu verwandeln, wenn man selbst entweder klein oder mittelgroß ist.
-| Alter Self | [Fohleireih's Aid](https://www.dndbeyond.com/spells/1889781-fohleireihs-aid) | Klärung: nur "überschüssige" Hit Points gehen am Ende der Wirkungsdauer verloren.
+| Aid        | [Fohleireih's Aid](https://www.dndbeyond.com/spells/1889781-fohleireihs-aid) | Klärung: nur "überschüssige" Hit Points gehen am Ende der Wirkungsdauer verloren.
+| Alter Self | [Fohleireih's Alter Self](https://www.dndbeyond.com/spells/1889771-fohleireihs-alter-self) | Erlaubt sich in eine kleine oder mittelgroße Kreatur zu verwandeln, wenn man selbst entweder klein oder mittelgroß ist.
 | Simulacrum | [Fohleireih's Simulacrum](https://www.dndbeyond.com/spells/1889791-fohleireihs-simulacrum) | Klärung: das Simulakrum kann auch keine verbrauchten Features wieder zurück erhalten.
 
 ## Scrolls
