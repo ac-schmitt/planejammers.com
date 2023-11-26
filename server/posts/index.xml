@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuigkeiten on Planejammers</title>
+    <link>https://planejammers.com/posts/</link>
+    <description>Recent content in Neuigkeiten on Planejammers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://planejammers.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nach der Session 0</title>
+      <link>https://planejammers.com/posts/after-session-0/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://planejammers.com/posts/after-session-0/</guid>
+      <description>Wir haben uns zur Session 0 getroffen, alle Aspekte rund um das Spiel und die Hausregeln festgelegt.
+Der erste Blick auf die Charaktere hat gezeigt: alle spielen ganz verschiedene Charakterkonzepte, nur so richtiges Zaubervolk ist diesmal nicht anwesend. Das macht gar nichts, es wird so oder so spannend!</description>
+    </item>
+    <item>
+      <title>Glücksritter gesucht</title>
+      <link>https://planejammers.com/posts/anouncement/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://planejammers.com/posts/anouncement/</guid>
+      <description>Ich suche Abenteuerer. Ich suche Glücksritter. Vielleicht Erben eines unfassbaren Schatzes. Vielleicht suche ich Dich?
+Falls Du Lust und Zeit für eine regelmäßige Rollenspielrunde hast,
+die nur online gespielt wird; die jeden 2. Donnnerstag Abend stattfindet; bei der Dungeons &amp;amp; Dragons gespielt wird; bei der wir ein Pulp Science Fantasy Setting mit einer Mischung aus Spelljammer und Planescape erkunden; bei der ich den Spielleiter gebe.</description>
+    </item>
+    <item>
+      <title>Willkommen</title>
+      <link>https://planejammers.com/posts/welcome/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://planejammers.com/posts/welcome/</guid>
+      <description>Herzlich willkommen bei planjammers.com, der Heimat einer meiner Dungeons &amp;amp; Dragons Kampagnen.
+Neuigkeiten In der Kategorie &amp;ldquo;Neuigkeiten&amp;rdquo; poste ich solche Nachrichten wie diese, mache die Aufrufe um Spielerinnen oder Spieler zu suchen, kündige Sachen an oder gebe Änderungen in der Bibliothek bekannt:
+Bibliothek In dieser Kategorie befinden sich die gesammelten Informationen zu meiner Kampagne, die auch für die öffentlich bestimmt sind.</description>
+    </item>
+  </channel>
+</rss>

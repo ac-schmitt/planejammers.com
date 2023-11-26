@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html
+  lang="de"
+  dir="ltr"
+  
+><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>Planejammers</title>
+
+<meta name="generator" content="Hugo Eureka 0.9.3" />
+<link rel="stylesheet" href="https://planejammers.com/css/eureka.min.9cec6350e37e534b0338fa9a085bf06855de3b0f2dcf857e792e5e97b07ea905d4d5513db554cbc26a9c3da622bae92d.css">
+<script defer src="https://planejammers.com/js/eureka.min.fa9a6bf6d7a50bb635b4cca7d2ba5cf3dfb095ae3798773f1328f7950028b48c17d06276594e1b5f244a25a6c969a705.js"></script>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/styles/base16/solarized-light.min.css"
+   media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/highlight.min.js"
+   crossorigin></script>
+  <script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/dart.min.js"
+     crossorigin></script>
+<link rel="stylesheet" href="https://planejammers.com/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css" media="print" onload="this.media='all';this.onload=null">
+
+
+<script defer type="text/javascript" src="https://planejammers.com/js/fontawesome.min.fb4f99bf68b5bbbdcf848d3ca8ede1fe65f94ab98a9199e81a85df1403fd185cd7e687196e7d75378fec2f96450a74b3.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css"
+   integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ"  media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js" 
+  integrity="sha384-VQ8d8WVFw0yHhCk5E8I86oOhv48xLpnDZx5T9GogA/Y84DcCKWXDmSDfn13bzFZY"  crossorigin></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js"
+   integrity="sha384-&#43;XBljXPPiv&#43;OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR"  crossorigin></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true }
+      ],
+    });
+  });
+</script>
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/mermaid@8.14.0/dist/mermaid.min.js" 
+  integrity="sha384-atOyb0FxAgN9LyAc6PEf9BjgwLISyansgdH8/VXQH8p2o5vfrRgmGIJ2Sg22L0A0"  crossorigin></script>
+
+
+
+<meta name="description"
+  content="Eureka is a elegant and powerful theme for Hugo.">
+
+
+
+<meta property="og:title" content="Planejammers" />
+<meta property="og:type" content="website" />
+
+
+
+<meta property="og:url" content="https://planejammers.com/" />
+
+
+
+
+
+<meta property="og:description" content="Eureka is a elegant and powerful theme for Hugo." />
+
+
+
+
+
+<meta property="og:locale" content="de" />
+
+
+
+<meta property="og:locale:alternate" content="en" />
+
+
+
+
+<meta property="og:site_name" content="Planejammers" />
+
+
+
+
+
+
+<meta property="og:updated_time" content="2023-11-19T00:00:00&#43;00:00" />
+
+
+
+<meta property="article:section" content="" />
+
+
+<link rel="alternate" type="application/rss+xml" href="https://planejammers.com/index.xml" title="Planejammers" />
+
+
+  <body class="flex min-h-screen flex-col">
+    <header
+      class="min-h-16 pl-scrollbar bg-secondary-bg fixed z-50 flex w-full items-center shadow-sm"
+    >
+      <div class="mx-auto w-full max-w-screen-xl"><script>
+    let storageColorScheme = localStorage.getItem("lightDarkMode")
+    if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
+        document.getElementsByTagName('html')[0].classList.add('dark')
+    }
+</script>
+<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
+    <a href="/" class="me-6 text-primary-text text-xl font-bold">Planejammers</a>
+    <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <div id="target"
+        class="hidden block md:flex md:grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
+        <div class="md:flex md:h-16 text-sm md:grow pb-4 md:pb-0 border-b md:border-b-0">
+            <a href="/posts/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Neuigkeiten</a>
+            <a href="/docs/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Bibliothek</a>
+            <a href="/#about" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Erscheinungsvermerk</a>
+        </div>
+
+        <div class="flex">
+            <div class="relative pt-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="lightDarkMode">
+                    <i class="fas fa-adjust"></i>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='lightDarkOptions'>
+                    <span class="px-4 py-1 hover:text-eureka" name="Light">Hell</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Dark">Dunkel</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
+                </div>
+            </div>
+            <div class="relative pt-4 ps-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="ps-1">Deutsch</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://planejammers.com/">Deutsch</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://planejammers.com/en/">English</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id="is-open-mobile">
+    </div>
+
+</nav>
+<script>
+    
+    let element = document.getElementById('lightDarkMode')
+    if (storageColorScheme == null || storageColorScheme == 'Auto') {
+        document.addEventListener('DOMContentLoaded', () => {
+            window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change', switchDarkMode)
+        })
+    } else if (storageColorScheme == "Light") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'sun')
+        element.firstElementChild.classList.add('fa-sun')
+    } else if (storageColorScheme == "Dark") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'moon')
+        element.firstElementChild.classList.add('fa-moon')
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        getcolorscheme();
+        switchBurger();
+        switchLanguage()
+    });
+</script>
+</div>
+    </header>
+    <main class="grow pt-16">
+  
+  
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-cover"
+    style="background-image: url(https://planejammers.com/images/title-plate.jpg);"
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="top"
+        class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      
+<div class="bg-secondary-bg shadow-2xl -m-12 p-12" style="opacity: 0.8; text-align:center">
+  <p><span class="font-bold text-opacity-75 text-2xl md:text-3xl">Planejammers</span></p>
+  <br/>
+  <p><span class="font-bold text-opacity-75 text-2xl">~ Eine <a href="https://dnd.wizards.com">Dungeons & Dragons</a> Kampagne ~</span></p>
+  <br/>
+  <p><span class="font-bold text-opacity-75 text-2xl">~ Präsentiert von <a href="https://pifco.org">PIF & Co.</a> ~</span></p>
+</div>
+
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-tertiary-bg"
+    
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="pages"
+        class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      
+  <h2 class=" font-bold text-3xl my-4">Neuigkeiten</h2>
+
+
+  
+  
+  <div class="overflow-hidden divide-y">
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/posts/after-session-0/" class="no-underline">
+    <h3 class="mt-0">Nach der Session 0</h3>
+  </a>
+  
+    Wir haben uns zur Session 0 getroffen, alle Aspekte rund um das Spiel und die Hausregeln festgelegt.
+Der erste Blick auf die Charaktere hat gezeigt: alle spielen ganz verschiedene Charakterkonzepte, nur so richtiges Zaubervolk ist diesmal nicht anwesend. Das macht gar nichts, es wird so oder so spannend!
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2023-05-11</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>Lesezeit: 1 min</span>
+  </div>
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/posts/anouncement/" class="no-underline">
+    <h3 class="mt-0">Glücksritter gesucht</h3>
+  </a>
+  
+    Ich suche Abenteuerer. Ich suche Glücksritter. Vielleicht Erben eines unfassbaren Schatzes. Vielleicht suche ich Dich?
+Falls Du Lust und Zeit für eine regelmäßige Rollenspielrunde hast,
+die nur online gespielt wird; die jeden 2. Donnnerstag Abend stattfindet; bei der Dungeons &amp; Dragons gespielt wird; bei der wir ein Pulp Science Fantasy Setting mit einer Mischung aus Spelljammer und Planescape erkunden; bei der ich den Spielleiter gebe.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2023-01-24</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>Lesezeit: 1 min</span>
+  </div>
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/posts/welcome/" class="no-underline">
+    <h3 class="mt-0">Willkommen</h3>
+  </a>
+  
+    Herzlich willkommen bei planjammers.com, der Heimat einer meiner Dungeons &amp; Dragons Kampagnen.
+Neuigkeiten In der Kategorie “Neuigkeiten” poste ich solche Nachrichten wie diese, mache die Aufrufe um Spielerinnen oder Spieler zu suchen, kündige Sachen an oder gebe Änderungen in der Bibliothek bekannt:
+Bibliothek In dieser Kategorie befinden sich die gesammelten Informationen zu meiner Kampagne, die auch für die öffentlich bestimmt sind.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2023-01-01</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>Lesezeit: 1 min</span>
+  </div>
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+</div>
+
+
+  <div class="pt-2 hover:text-eureka">
+    
+  <a href="https://planejammers.com/posts/" class="font-semibold">Mehr erfahren</a>
+  <i class='fas fa-caret-right ms-1'></i>
+
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-cover"
+    style="background-image: url(https://planejammers.com/images/wheel.jpg);"
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="about"
+        class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      
+<div class="bg-secondary-bg shadow-2xl -m-12 p-12" style="opacity: 0.8;">
+  <h2 class="font-bold text-opacity-75 text-3xl my-4">Erscheinungsvermerk</h2>
+  <div class="prose">
+    <p>Dies ist eine reine private Website zur Unterstützung einer privaten Rollenspielrunde. Veranstalter ist die fiktive
+      Fantasy-Kanzlei <a href="https://pifco.org">Phineas, Ilominar, Fohleireih & Co.</a></p>
+    <h3>Kontaktaufnahme</h3>
+    <p>
+      Die Quellen für die Seite befinden sich auf <a href="https://github.com">Github</a> in einem <a
+        href="https://github.com/ac-schmitt/planejammers.com">öffentlichen Repository</a>.
+      In diesem Repository können <a href="https://github.com/ac-schmitt/planejammers.com/issues">Issues erstellt</a>
+      werden, die vom Betreiber der Website gelesen werden.
+      Alternativ könnte auch eine Mail an website(at)planejammers.com funktionieren, falls sie an den Spamfiltern vorbei
+      kommt.
+    </p>
+    <h3>Urheberrecht</h3>
+    <p>
+      Alle selbsterstellten Inhalte, insbesondere alle Texte auf <a href="https://planejammers.com">planejammers.com</a>
+      stehen unter <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial
+        4.0</a> Lizenz.
+    </p>
+    <p>
+      Alle Bilder, die direkt von dieser Website abgerufen werden können, sind entweder selbst erstellt (unter CC BY-NC 4.0)
+      oder gemeinfrei. Eingebettete Bilder, Videos oder sonstige Medien verweisen auf die Originalquelle und sich
+      entsprechend
+      gekennzeichnet. Eingebettete Bilder entsprechen zusätzlich § 10 UrhDaG und sind kleiner als 125 Kilobyte.
+      Lizenziertes Material ist entsprechend gekennzeichnet.
+    </p>
+    <h3>Fan-Inhalt</h3>
+    <p>
+      Die Dungeons & Dragons Kampagne "<a href="https://planejammers.com">Planejammers</a>"" ist ein inoffizieller
+      Fan-Inhalt im Rahmen der Richtlinie für
+      Fan-Inhalte. Nicht von Wizards gefördert/gesponsert. Bestandteile des enthaltenen Materials sind Eigentum von Wizards
+      of
+      the Coast. ©Wizards of the Coast LLC
+    </p>
+  </div>
+</div>
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    </main>
+    <footer class="pl-scrollbar">
+      <div class="mx-auto w-full max-w-screen-xl"><div class="text-center p-6 pin-b">
+    <p class="text-sm text-tertiary-text">CC BY-NC 4.0 &middot;  Powered by the <a href="https://github.com/wangchucheng/hugo-eureka" class="hover:text-eureka">Eureka</a> theme for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a></p>
+</div></div>
+    </footer>
+  </body>
+</html>

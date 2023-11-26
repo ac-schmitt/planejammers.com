@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html
+  lang="de"
+  dir="ltr"
+  
+><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>Alexander | Planejammers</title>
+
+<meta name="generator" content="Hugo Eureka 0.9.3" />
+<link rel="stylesheet" href="https://planejammers.com/css/eureka.min.9cec6350e37e534b0338fa9a085bf06855de3b0f2dcf857e792e5e97b07ea905d4d5513db554cbc26a9c3da622bae92d.css">
+<script defer src="https://planejammers.com/js/eureka.min.fa9a6bf6d7a50bb635b4cca7d2ba5cf3dfb095ae3798773f1328f7950028b48c17d06276594e1b5f244a25a6c969a705.js"></script>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/styles/base16/solarized-light.min.css"
+   media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/highlight.min.js"
+   crossorigin></script>
+  <script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/dart.min.js"
+     crossorigin></script>
+<link rel="stylesheet" href="https://planejammers.com/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css" media="print" onload="this.media='all';this.onload=null">
+
+
+<script defer type="text/javascript" src="https://planejammers.com/js/fontawesome.min.fb4f99bf68b5bbbdcf848d3ca8ede1fe65f94ab98a9199e81a85df1403fd185cd7e687196e7d75378fec2f96450a74b3.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css"
+   integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ"  media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js" 
+  integrity="sha384-VQ8d8WVFw0yHhCk5E8I86oOhv48xLpnDZx5T9GogA/Y84DcCKWXDmSDfn13bzFZY"  crossorigin></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js"
+   integrity="sha384-&#43;XBljXPPiv&#43;OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR"  crossorigin></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true }
+      ],
+    });
+  });
+</script>
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/mermaid@8.14.0/dist/mermaid.min.js" 
+  integrity="sha384-atOyb0FxAgN9LyAc6PEf9BjgwLISyansgdH8/VXQH8p2o5vfrRgmGIJ2Sg22L0A0"  crossorigin></script>
+
+
+
+<meta name="description"
+  content="Eureka is a elegant and powerful theme for Hugo.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1 ,
+      "name":"Authors",
+      "item":"https://planejammers.com/authors/"},{
+      "@type": "ListItem",
+      "position": 2 ,
+      "name":"Alexander",
+      "item":"https://planejammers.com/authors/alexander/"}]
+}
+</script>
+
+
+
+
+<script type="application/ld+json">
+{
+    "@context":"https://schema.org",
+    "@type":"ItemList",
+    "itemListElement":[{
+            "@type":"ListItem",
+            "position":  1 ,
+            "name": "Das Multiversum",
+            "description": "Das Buch über den Kosmos von Dungeons \u0026 Dragons",
+            "url": "https://planejammers.com/docs/campaign-guide/world/"
+        },{
+            "@type":"ListItem",
+            "position":  2 ,
+            "name": "Das Spiel",
+            "description": "Spielmechanik, Hausregeln, Tools, usw.",
+            "url": "https://planejammers.com/docs/campaign-guide/game/"
+        },{
+            "@type":"ListItem",
+            "position":  3 ,
+            "name": "Fragen und Antworten",
+            "description": "Fragen und Antworten",
+            "url": "https://planejammers.com/docs/campaign-guide/q-and-a/"
+        },{
+            "@type":"ListItem",
+            "position":  4 ,
+            "name": "Hausregeln",
+            "description": "Alle Hausregeln der Planejammers Kampagne",
+            "url": "https://planejammers.com/docs/campaign-guide/house-rules/"
+        },{
+            "@type":"ListItem",
+            "position":  5 ,
+            "name": "Ventumilo",
+            "description": "Die Spelljammer Ventumilo",
+            "url": "https://planejammers.com/docs/campaign-guide/ventumilo/"
+        },{
+            "@type":"ListItem",
+            "position":  6 ,
+            "name": "Session 0",
+            "description": "Agenda und Festlegungen zur Session 0",
+            "url": "https://planejammers.com/docs/campaign-guide/session-0/"
+        },{
+            "@type":"ListItem",
+            "position":  7 ,
+            "name": "Nach der Session 0",
+            "description": "Wir haben uns zur Session 0 getroffen, alle Aspekte rund um das Spiel und die Hausregeln festgelegt.\nDer erste Blick auf die Charaktere hat gezeigt: alle spielen ganz verschiedene Charakterkonzepte, nur so richtiges Zaubervolk ist diesmal nicht anwesend. Das macht gar nichts, es wird so oder so spannend!",
+            "url": "https://planejammers.com/posts/after-session-0/"
+        },{
+            "@type":"ListItem",
+            "position":  8 ,
+            "name": "Glücksritter gesucht",
+            "description": "Ich suche Abenteuerer. Ich suche Glücksritter. Vielleicht Erben eines unfassbaren Schatzes. Vielleicht suche ich Dich?\nFalls Du Lust und Zeit für eine regelmäßige Rollenspielrunde hast,\ndie nur online gespielt wird; die jeden 2. Donnnerstag Abend stattfindet; bei der Dungeons \u0026amp; Dragons gespielt wird; bei der wir ein Pulp Science Fantasy Setting mit einer Mischung aus Spelljammer und Planescape erkunden; bei der ich den Spielleiter gebe.",
+            "url": "https://planejammers.com/posts/anouncement/"
+        },{
+            "@type":"ListItem",
+            "position":  9 ,
+            "name": "Kampagnen-Leitfaden",
+            "description": "Der Leifaden zur Planejammers-Kampagne.",
+            "url": "https://planejammers.com/docs/campaign-guide/"
+        },{
+            "@type":"ListItem",
+            "position":  10 ,
+            "name": "Willkommen",
+            "description": "Herzlich willkommen bei planjammers.com, der Heimat einer meiner Dungeons \u0026amp; Dragons Kampagnen.\nNeuigkeiten In der Kategorie \u0026ldquo;Neuigkeiten\u0026rdquo; poste ich solche Nachrichten wie diese, mache die Aufrufe um Spielerinnen oder Spieler zu suchen, kündige Sachen an oder gebe Änderungen in der Bibliothek bekannt:\nBibliothek In dieser Kategorie befinden sich die gesammelten Informationen zu meiner Kampagne, die auch für die öffentlich bestimmt sind.",
+            "url": "https://planejammers.com/posts/welcome/"
+        }
+    ]
+}
+</script><meta property="og:title" content="Alexander | Planejammers" />
+<meta property="og:type" content="website" />
+
+
+
+<meta property="og:url" content="https://planejammers.com/authors/alexander/" />
+
+
+
+
+
+<meta property="og:description" content="Eureka is a elegant and powerful theme for Hugo." />
+
+
+
+
+
+<meta property="og:locale" content="de" />
+
+
+
+
+<meta property="og:site_name" content="Planejammers" />
+
+
+
+
+
+
+<meta property="og:updated_time" content="2023-11-19T00:00:00&#43;00:00" />
+
+
+
+<meta property="article:section" content="authors" />
+
+
+<link rel="alternate" type="application/rss+xml" href="https://planejammers.com/authors/alexander/index.xml" title="Planejammers" />
+
+
+  <body class="flex min-h-screen flex-col">
+    <header
+      class="min-h-16 pl-scrollbar bg-secondary-bg fixed z-50 flex w-full items-center shadow-sm"
+    >
+      <div class="mx-auto w-full max-w-screen-xl"><script>
+    let storageColorScheme = localStorage.getItem("lightDarkMode")
+    if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
+        document.getElementsByTagName('html')[0].classList.add('dark')
+    }
+</script>
+<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
+    <a href="/" class="me-6 text-primary-text text-xl font-bold">Planejammers</a>
+    <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <div id="target"
+        class="hidden block md:flex md:grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
+        <div class="md:flex md:h-16 text-sm md:grow pb-4 md:pb-0 border-b md:border-b-0">
+            <a href="/posts/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Neuigkeiten</a>
+            <a href="/docs/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Bibliothek</a>
+            <a href="/#about" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">Erscheinungsvermerk</a>
+        </div>
+
+        <div class="flex">
+            <div class="relative pt-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="lightDarkMode">
+                    <i class="fas fa-adjust"></i>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='lightDarkOptions'>
+                    <span class="px-4 py-1 hover:text-eureka" name="Light">Hell</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Dark">Dunkel</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id="is-open-mobile">
+    </div>
+
+</nav>
+<script>
+    
+    let element = document.getElementById('lightDarkMode')
+    if (storageColorScheme == null || storageColorScheme == 'Auto') {
+        document.addEventListener('DOMContentLoaded', () => {
+            window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change', switchDarkMode)
+        })
+    } else if (storageColorScheme == "Light") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'sun')
+        element.firstElementChild.classList.add('fa-sun')
+    } else if (storageColorScheme == "Dark") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'moon')
+        element.firstElementChild.classList.add('fa-moon')
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        getcolorscheme();
+        switchBurger();
+    });
+</script>
+</div>
+    </header>
+    <main class="grow pt-16">
+  <div class="pl-scrollbar bg-secondary-bg">
+    <div class="mx-auto max-w-screen-xl">
+      <div class="mx-auto px-6 py-12 md:px-8 lg:w-3/4 xl:px-12">
+        <div class="mb-12 flex flex-col items-center justify-center md:flex-row">
+  
+  
+    <div class="md:ms-0 md:me-8 md:pe-8 md:border-e mx-auto w-48 flex-none">
+      <img src="https://i.imgur.com/i0kzBdN.png" class="rounded-full" alt="Avatar" />
+    </div>
+  
+  <div class="mt-4 w-full grow md:mt-0">
+    <h1 class="py-4 text-3xl">Alexander</h1>
+    <div class="w-3/12 border-b xl:w-2/12"></div>
+
+    <div class="flex items-center pt-4">
+      
+        <i class="fas fa-user"></i>
+      
+      <div class="flex flex-wrap">
+        
+          <span class="ps-4">Erzähler</span>
+        
+
+        
+          <a href="" class="ps-4"></a>
+        
+      </div>
+    </div>
+
+    
+      <div class="py-8 text-lg leading-normal">
+        Dungeon Master von Planejammers
+      </div>
+    
+  </div>
+  <div class="md:ms-8 flex items-end justify-center md:flex-col">
+    
+    
+      
+      
+      
+      
+      
+      <div class="mx-2 mb-2 mt-4 md:mx-0 md:mt-2">
+        <a href=""><i class="&lt;nil&gt; fa-&lt;nil&gt;"></i></a>
+      </div>
+    
+  </div>
+</div>
+<div class="prose">
+  
+</div>
+
+      </div>
+    </div>
+  </div>
+  <div class="pl-scrollbar bg-primary-bg">
+    <div class="mx-auto max-w-screen-xl">
+      <div class="mx-auto px-6 py-12 md:px-8 lg:w-3/4 xl:px-12">
+        <div class="overflow-hidden divide-y">
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/docs/campaign-guide/world/" class="no-underline">
+    <h3 class="mt-0">Das Multiversum</h3>
+  </a>
+  
+    Das Buch über den Kosmos von Dungeons &amp; Dragons
+  
+
+  
+    <div class="mx-6">
+      
+      <a href="https://planejammers.com/docs/campaign-guide/world/" class="no-underline">
+        <h4>
+          Mehr erfahren
+          <i
+            class="fas fa-caret-right ms-1"
+          ></i>
+        </h4>
+      </a>
+    </div>
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/docs/campaign-guide/game/" class="no-underline">
+    <h3 class="mt-0">Das Spiel</h3>
+  </a>
+  
+    Spielmechanik, Hausregeln, Tools, usw.
+  
+
+  
+    <div class="mx-6">
+      
+      <a href="https://planejammers.com/docs/campaign-guide/game/" class="no-underline">
+        <h4>
+          Mehr erfahren
+          <i
+            class="fas fa-caret-right ms-1"
+          ></i>
+        </h4>
+      </a>
+    </div>
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/docs/campaign-guide/q-and-a/" class="no-underline">
+    <h3 class="mt-0">Fragen und Antworten</h3>
+  </a>
+  
+    Fragen und Antworten
+  
+
+  
+    <div class="mx-6">
+      
+      <a href="https://planejammers.com/docs/campaign-guide/q-and-a/" class="no-underline">
+        <h4>
+          Mehr erfahren
+          <i
+            class="fas fa-caret-right ms-1"
+          ></i>
+        </h4>
+      </a>
+    </div>
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/docs/campaign-guide/house-rules/" class="no-underline">
+    <h3 class="mt-0">Hausregeln</h3>
+  </a>
+  
+    Alle Hausregeln der Planejammers Kampagne
+  
+
+  
+    <div class="mx-6">
+      
+      <a href="https://planejammers.com/docs/campaign-guide/house-rules/" class="no-underline">
+        <h4>
+          Mehr erfahren
+          <i
+            class="fas fa-caret-right ms-1"
+          ></i>
+        </h4>
+      </a>
+    </div>
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/docs/campaign-guide/ventumilo/" class="no-underline">
+    <h3 class="mt-0">Ventumilo</h3>
+  </a>
+  
+    Die Spelljammer Ventumilo
+  
+
+  
+    <div class="mx-6">
+      
+      <a href="https://planejammers.com/docs/campaign-guide/ventumilo/" class="no-underline">
+        <h4>
+          Mehr erfahren
+          <i
+            class="fas fa-caret-right ms-1"
+          ></i>
+        </h4>
+      </a>
+    </div>
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/docs/campaign-guide/session-0/" class="no-underline">
+    <h3 class="mt-0">Session 0</h3>
+  </a>
+  
+    Agenda und Festlegungen zur Session 0
+  
+
+  
+    <div class="mx-6">
+      
+      <a href="https://planejammers.com/docs/campaign-guide/session-0/" class="no-underline">
+        <h4>
+          Mehr erfahren
+          <i
+            class="fas fa-caret-right ms-1"
+          ></i>
+        </h4>
+      </a>
+    </div>
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/posts/after-session-0/" class="no-underline">
+    <h3 class="mt-0">Nach der Session 0</h3>
+  </a>
+  
+    Wir haben uns zur Session 0 getroffen, alle Aspekte rund um das Spiel und die Hausregeln festgelegt.
+Der erste Blick auf die Charaktere hat gezeigt: alle spielen ganz verschiedene Charakterkonzepte, nur so richtiges Zaubervolk ist diesmal nicht anwesend. Das macht gar nichts, es wird so oder so spannend!
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2023-05-11</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>Lesezeit: 1 min</span>
+  </div>
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/posts/anouncement/" class="no-underline">
+    <h3 class="mt-0">Glücksritter gesucht</h3>
+  </a>
+  
+    Ich suche Abenteuerer. Ich suche Glücksritter. Vielleicht Erben eines unfassbaren Schatzes. Vielleicht suche ich Dich?
+Falls Du Lust und Zeit für eine regelmäßige Rollenspielrunde hast,
+die nur online gespielt wird; die jeden 2. Donnnerstag Abend stattfindet; bei der Dungeons &amp; Dragons gespielt wird; bei der wir ein Pulp Science Fantasy Setting mit einer Mischung aus Spelljammer und Planescape erkunden; bei der ich den Spielleiter gebe.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2023-01-24</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>Lesezeit: 1 min</span>
+  </div>
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/docs/campaign-guide/" class="no-underline">
+    <h3 class="mt-0">Kampagnen-Leitfaden</h3>
+  </a>
+  
+    Der Leifaden zur Planejammers-Kampagne.
+  
+
+  
+    <div class="mx-6">
+      
+        <a href="https://planejammers.com/docs/campaign-guide/world/" class="no-underline">
+          <h4>Das Multiversum</h4>
+        </a>
+        
+          Das Buch über den Kosmos von Dungeons &amp; Dragons
+        
+      
+        
+          <div class="-mx-4 my-4 border-t"></div>
+        <a href="https://planejammers.com/docs/campaign-guide/game/" class="no-underline">
+          <h4>Das Spiel</h4>
+        </a>
+        
+          Spielmechanik, Hausregeln, Tools, usw.
+        
+      
+        
+          <div class="-mx-4 my-4 border-t"></div>
+        <a href="https://planejammers.com/docs/campaign-guide/q-and-a/" class="no-underline">
+          <h4>Fragen und Antworten</h4>
+        </a>
+        
+          Fragen und Antworten
+        
+      
+      <a href="https://planejammers.com/docs/campaign-guide/" class="no-underline">
+        <h4>
+          Mehr erfahren
+          <i
+            class="fas fa-caret-right ms-1"
+          ></i>
+        </h4>
+      </a>
+    </div>
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://planejammers.com/posts/welcome/" class="no-underline">
+    <h3 class="mt-0">Willkommen</h3>
+  </a>
+  
+    Herzlich willkommen bei planjammers.com, der Heimat einer meiner Dungeons &amp; Dragons Kampagnen.
+Neuigkeiten In der Kategorie “Neuigkeiten” poste ich solche Nachrichten wie diese, mache die Aufrufe um Spielerinnen oder Spieler zu suchen, kündige Sachen an oder gebe Änderungen in der Bibliothek bekannt:
+Bibliothek In dieser Kategorie befinden sich die gesammelten Informationen zu meiner Kampagne, die auch für die öffentlich bestimmt sind.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2023-01-01</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>Lesezeit: 1 min</span>
+  </div>
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+  </div>
+  
+</div>
+
+
+      </div>
+    </div>
+  </div>
+
+    </main>
+    <footer class="pl-scrollbar">
+      <div class="mx-auto w-full max-w-screen-xl"><div class="text-center p-6 pin-b">
+    <p class="text-sm text-tertiary-text">CC BY-NC 4.0 &middot;  Powered by the <a href="https://github.com/wangchucheng/hugo-eureka" class="hover:text-eureka">Eureka</a> theme for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a></p>
+</div></div>
+    </footer>
+  </body>
+</html>
