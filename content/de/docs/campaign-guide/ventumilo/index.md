@@ -6,7 +6,7 @@ authors: alexander
 tags:
 categories:
 series:
-weight: 50
+weight: 60
 date: '2023-11-19'
 lastmod: '2023-11-19'
 draft: false
